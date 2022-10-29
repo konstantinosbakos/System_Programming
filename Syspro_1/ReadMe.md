@@ -28,7 +28,7 @@ as well as the virus that the patients have been vaccinated for. The user insert
 
 ## Skip List
  The skip list was implemented based on the video and the information provided. The skip list 
- implementation is located in src/skip_list.The skip list is implemented using two classes, block 
+ implementation is located in src/skip_list. The skip list is implemented using two classes, block 
  and skip_list.
 ### Class : block
  A block is essentially a block of information. It contains the number of levels that it participates 
