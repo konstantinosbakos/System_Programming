@@ -1,0 +1,204 @@
+4944 Samuel Palmer Armenia 100 Covid-19 NO
+7660 Gavin Tucker Armenia 101 Ebola NO
+4676 Serenity Griffith Armenia 101 Spanish_Flu NO
+1366 Anaya Roth Armenia 101 West_Nile_Fever NO
+6104 Jamya Moody Armenia 102 Spanish_Flu YES 5-5-1995
+1324 Kason Mckinney Armenia 103 Spanish_Flu YES 10-9-2011
+1860 Adelyn Dillon Armenia 105 Covid-19 YES 15-12-1975
+9557 Kenzie Navarro Armenia 105 West_Nile_Fever NO
+6624 Braylen Cameron Armenia 106 HIV NO
+2497 Briley Farley Armenia 107 Ebola YES 26-7-1931
+7518 Sharon Fritz Armenia 108 Ebola YES 27-12-1923
+5781 Manuel Maddox Armenia 108 West_Nile_Fever YES 20-11-1904
+8231 Stella Rasmussen Armenia 109 HIV YES 22-6-1934
+8247 Lewis Lawson Armenia 109 West_Nile_Fever NO
+9224 Dayana Bowman Armenia 10 HIV NO
+2656 Philip Gross Armenia 10 West_Nile_Fever NO
+3158 Mackenzie Kane Armenia 110 Ebola NO
+1015 Casey Woods Armenia 111 Covid-19 NO
+6468 Angelique Rogers Armenia 111 Covid-19 YES 25-8-1956
+5584 Valerie Kelley Armenia 111 HIV YES 26-1-1992
+2272 Damari Pierce Armenia 111 West_Nile_Fever YES 12-3-1996
+9606 Aria Turner Armenia 112 Covid-19 NO
+7381 Carl Matthews Armenia 112 HIV NO
+1929 Cara King Armenia 113 Covid-19 NO
+3253 Abigayle Delacruz Armenia 113 HIV NO
+581 Tori Mckee Armenia 114 Ebola NO
+8711 Rohan Jensen Armenia 114 Spanish_Flu YES 9-1-1913
+4317 Angelica Kelly Armenia 115 Covid-19 YES 12-1-1936
+9106 Ray Knox Armenia 115 West_Nile_Fever YES 27-4-1952
+5901 Raiden Eaton Armenia 116 HIV YES 1-12-2008
+1033 Omar Archer Armenia 117 Spanish_Flu NO
+9984 Nathen Leach Armenia 118 Covid-19 NO
+5904 Andrea Gray Armenia 118 Spanish_Flu NO
+6534 Adrian Wilkinson Armenia 118 West_Nile_Fever YES 5-9-1967
+8818 Kira Mckenzie Armenia 119 HIV YES 11-6-1936
+9078 Nicolas Stein Armenia 11 Covid-19 NO
+5254 Tony Luna Armenia 11 Ebola NO
+6740 Abril Preston Armenia 11 Spanish_Flu YES 14-6-1987
+5392 Aisha Alvarez Armenia 120 Ebola NO
+409 Lawson Norris Armenia 120 Spanish_Flu NO
+7057 Joel Jenkins Armenia 120 West_Nile_Fever NO
+1871 Kyson Huffman Armenia 12 West_Nile_Fever YES 2-3-1922
+4754 Darien Dean Armenia 13 Spanish_Flu NO
+1222 Ryann Mcgrath Armenia 14 Ebola YES 16-11-1941
+495 Yesenia Boyer Armenia 14 West_Nile_Fever NO
+7826 Pedro Frazier Armenia 15 Ebola NO
+4241 Kamari Campbell Armenia 16 Ebola NO
+8015 Alijah Bright Armenia 16 Spanish_Flu YES 28-3-1972
+9977 Jaycee Gates Armenia 17 Ebola NO
+410 Milo Alvarado Armenia 17 Spanish_Flu YES 13-5-2000
+5437 Rayne Marshall Armenia 18 Covid-19 YES 23-7-1902
+3051 Russell Preston Armenia 18 Ebola YES 21-1-1974
+6147 Marvin Patterson Armenia 18 West_Nile_Fever YES 22-12-1959
+8535 Kenley Bray Armenia 1 Covid-19 YES 23-1-1955
+4468 Lyla Tanner Armenia 1 HIV NO
+5607 Jadyn Irwin Armenia 1 Spanish_Flu NO
+2197 Ahmed Hopkins Armenia 20 Covid-19 YES 25-4-1988
+6610 Lola Goodwin Armenia 20 West_Nile_Fever YES 11-6-1906
+1873 Elena Conley Armenia 21 Spanish_Flu NO
+1540 Savannah Eaton Armenia 23 Covid-19 NO
+4286 Carmen Ewing Armenia 23 Spanish_Flu YES 18-1-1950
+8365 Tatiana Cervantes Armenia 24 Covid-19 NO
+1418 Brooke Melendez Armenia 24 HIV NO
+3669 Emmy Huynh Armenia 24 Spanish_Flu YES 15-9-1981
+4278 Myles Stafford Armenia 25 Spanish_Flu NO
+273 Bradyn Bryan Armenia 26 HIV YES 26-4-1988
+9481 Kathryn Wolfe Armenia 27 HIV NO
+4435 Ishaan Schaefer Armenia 28 Ebola NO
+4938 Yurem Todd Armenia 28 West_Nile_Fever NO
+5316 Ben Gay Armenia 29 Covid-19 YES 23-1-2006
+8133 Gwendolyn Rose Armenia 29 Ebola NO
+2980 Kenna Doyle Armenia 29 HIV YES 23-7-1939
+1174 Maggie Villegas Armenia 2 HIV YES 25-12-1969
+1565 Angel Rollins Armenia 30 Covid-19 NO
+9388 Kaden Harmon Armenia 30 HIV NO
+349 Ismael Vaughn Armenia 32 Covid-19 NO
+2951 Myla Durham Armenia 32 Spanish_Flu NO
+2249 Leland Valdez Armenia 33 Covid-19 YES 12-6-2011
+9376 Jaslyn Giles Armenia 34 Covid-19 NO
+8103 Lorena Roberson Armenia 34 Spanish_Flu NO
+5516 Dulce Erickson Armenia 35 HIV YES 16-6-1903
+4048 Anya Cannon Armenia 36 Covid-19 NO
+1163 Asia Mora Armenia 36 HIV NO
+9723 Nathanael Jackson Armenia 36 West_Nile_Fever NO
+2339 Zack Hurley Armenia 38 Covid-19 YES 8-6-1998
+389 Yandel Richards Armenia 38 Spanish_Flu NO
+3300 Anya Hudson Armenia 39 Covid-19 YES 2-5-1997
+9074 Hailie Glass Armenia 3 Covid-19 YES 8-7-1935
+7274 Jaiden Wilkerson Armenia 3 Spanish_Flu NO
+7739 Kathryn Bray Armenia 40 Ebola NO
+4145 Lorelei Neal Armenia 40 Spanish_Flu NO
+6806 Gabriela Chambers Armenia 41 Ebola YES 10-6-1933
+2821 Danielle Sparks Armenia 41 West_Nile_Fever YES 10-10-2003
+6487 Trinity Jefferson Armenia 42 Ebola YES 10-4-1901
+8870 Alberto Jacobson Armenia 42 Spanish_Flu NO
+4556 Zara Fernandez Armenia 43 HIV YES 7-7-2005
+1115 Journey Nelson Armenia 44 Covid-19 NO
+8241 Jared Morgan Armenia 44 HIV NO
+7667 Alijah Henson Armenia 45 Ebola YES 13-2-1952
+7019 Jakobe Salas Armenia 45 West_Nile_Fever YES 8-6-2015
+1830 Bernard Clark Armenia 46 Spanish_Flu NO
+3581 Tyler Lester Armenia 47 Covid-19 NO
+3447 Paige Dunn Armenia 47 Spanish_Flu NO
+9675 Devyn Villanueva Armenia 48 Ebola NO
+8619 Veronica Chen Armenia 49 Ebola NO
+7779 Trent Michael Armenia 49 HIV YES 7-6-1927
+1627 Precious Rubio Armenia 4 HIV NO
+1272 Alfred Aguilar Armenia 4 West_Nile_Fever NO
+5873 Alisha Orr Armenia 4 West_Nile_Fever YES 27-5-1909
+21 Lindsey Jarvis Armenia 50 HIV YES 4-9-1966
+8098 Ashlynn Lynch Armenia 50 West_Nile_Fever YES 4-8-1943
+4662 Kenzie Evans Armenia 51 Ebola NO
+8339 Kamari Reese Armenia 51 Spanish_Flu YES 21-9-1949
+1214 Cordell Cervantes Armenia 52 Covid-19 YES 13-1-1991
+9764 Karsyn Randolph Armenia 52 Spanish_Flu YES 2-8-1958
+8613 Scarlett Wilcox Armenia 52 West_Nile_Fever YES 5-10-1993
+5281 Giovanni Mclaughlin Armenia 53 Spanish_Flu YES 8-12-1979
+7841 Nathalia Shannon Armenia 54 Covid-19 YES 20-8-1944
+9183 Nancy Vang Armenia 54 Ebola YES 13-1-1962
+3709 Maria Friedman Armenia 54 Spanish_Flu NO
+1448 Raymond Reid Armenia 55 Covid-19 YES 3-1-1901
+3853 Shaylee Huang Armenia 55 HIV YES 27-8-1939
+4441 Cael Carr Armenia 56 HIV NO
+1329 Eddie Riggs Armenia 56 West_Nile_Fever NO
+9516 Daphne Clark Armenia 57 Covid-19 YES 6-9-1974
+6889 Corinne Vargas Armenia 58 Covid-19 NO
+6977 Kira Yang Armenia 59 Ebola NO
+635 Zain Waller Armenia 59 West_Nile_Fever NO
+2749 Rayan Harding Armenia 5 HIV YES 24-7-1970
+5835 Destiney Harrison Armenia 60 Covid-19 NO
+7494 Erica Cross Armenia 60 Ebola YES 8-6-2015
+2704 Deja Preston Armenia 61 Covid-19 YES 23-1-1936
+8031 Derek Barber Armenia 62 Covid-19 YES 27-5-1903
+5591 Angelo Green Armenia 62 Spanish_Flu NO
+5897 Kamryn Macdonald Armenia 63 Covid-19 NO
+9667 Maryjane Ballard Armenia 63 Ebola NO
+110 Bella Herring Armenia 63 West_Nile_Fever YES 15-11-1927
+8733 Savion Meza Armenia 64 HIV NO
+867 Nolan Velasquez Armenia 65 Ebola NO
+7403 Jace Lamb Armenia 65 West_Nile_Fever NO
+8754 Jamari Conley Armenia 66 Ebola NO
+509 Zaniyah Mendoza Armenia 67 Covid-19 YES 28-5-1943
+5789 Trevor Valentine Armenia 67 Spanish_Flu YES 25-9-1965
+6894 Wendy Black Armenia 68 HIV NO
+2884 Hope Campbell Armenia 68 West_Nile_Fever YES 7-6-1975
+861 Preston Andrade Armenia 69 Ebola YES 28-4-1912
+6455 Jeramiah Shepherd Armenia 6 HIV YES 7-8-1968
+4184 Roger Perkins Armenia 6 West_Nile_Fever YES 24-7-1968
+1180 Mira Fuller Armenia 70 HIV YES 18-4-1989
+977 Junior Hatfield Armenia 71 Covid-19 NO
+2219 Lucia Daniels Armenia 71 West_Nile_Fever YES 26-7-1902
+3492 Dominick Boyle Armenia 72 Spanish_Flu YES 12-11-1931
+8049 Jackson Obrien Armenia 73 Covid-19 YES 19-10-1985
+3696 Itzel Rubio Armenia 73 Spanish_Flu YES 1-3-1977
+4106 Katelyn Lam Armenia 74 Ebola YES 3-10-1971
+1983 Talan Pierce Armenia 75 Covid-19 YES 15-11-1947
+4745 Lacey Moyer Armenia 75 HIV YES 28-8-1911
+8587 Yadira Wyatt Armenia 76 Covid-19 NO
+6878 Catalina Roach Armenia 76 HIV NO
+6118 Brooklynn Bray Armenia 76 West_Nile_Fever YES 30-10-1982
+8376 Kaydence Nichols Armenia 77 HIV NO
+874 Bianca Lozano Armenia 78 HIV NO
+1701 Brenna Mullen Armenia 79 Covid-19 NO
+4512 Sergio Caldwell Armenia 79 HIV NO
+8154 Abbie Sharp Armenia 7 Covid-19 NO
+4995 Jocelyn Petersen Armenia 7 West_Nile_Fever YES 6-8-2019
+3610 Kolton Wyatt Armenia 80 HIV YES 28-2-1933
+5220 Natalie Mccann Armenia 81 HIV NO
+7266 Lauren Trujillo Armenia 82 Covid-19 YES 11-8-1987
+9202 Hayden Khan Armenia 82 HIV NO
+1539 Tyree Macdonald Armenia 83 Covid-19 YES 8-11-1972
+716 Travis Brandt Armenia 83 Spanish_Flu NO
+9072 Tara Santos Armenia 84 HIV YES 18-3-2001
+1218 Sandra Strickland Armenia 85 Ebola NO
+6818 Abdullah Lamb Armenia 85 HIV YES 8-4-1999
+7052 Abagail Daniel Armenia 86 Ebola NO
+4968 Brenda Sparks Armenia 86 Spanish_Flu NO
+3468 Sonia Carney Armenia 87 Ebola NO
+8569 Stacy Mathews Armenia 87 West_Nile_Fever NO
+4312 Shirley Combs Armenia 88 Ebola NO
+7269 Rylan Stone Armenia 88 West_Nile_Fever YES 26-7-1944
+904 Lisa Baker Armenia 89 West_Nile_Fever NO
+3992 Stephen Oneal Armenia 8 HIV YES 25-6-1911
+7182 Patience Fuller Armenia 8 West_Nile_Fever NO
+6240 Azul Green Armenia 90 Covid-19 NO
+9971 Caden Nash Armenia 90 Spanish_Flu NO
+3328 Saniya Bender Armenia 90 West_Nile_Fever YES 15-4-1943
+5787 Lindsay Montoya Armenia 91 HIV YES 15-3-2003
+4694 Nick Saunders Armenia 92 Ebola NO
+4618 Barrett Chen Armenia 92 Spanish_Flu YES 22-4-1902
+3612 Bridget Bradley Armenia 93 HIV NO
+9620 Jaylin Tran Armenia 93 West_Nile_Fever NO
+9545 Tessa Acevedo Armenia 94 Ebola YES 2-8-2000
+624 Chace Hood Armenia 94 West_Nile_Fever NO
+2470 Bailey Hammond Armenia 95 Spanish_Flu YES 26-12-1973
+3512 Trevin Hartman Armenia 96 Covid-19 NO
+168 Jazlyn Medina Armenia 96 West_Nile_Fever NO
+1630 Kailee Walton Armenia 97 Ebola YES 28-1-1981
+7974 Dayana Wolf Armenia 98 Covid-19 NO
+9475 Ryland Braun Armenia 98 Ebola NO
+5506 Kaitlin Cooke Armenia 98 Spanish_Flu NO
+3302 Marley Ramirez Armenia 99 Covid-19 YES 8-11-1930
+4284 Andreas Stewart Armenia 9 Covid-19 NO
+7013 Liam Conley Armenia 9 Spanish_Flu NO

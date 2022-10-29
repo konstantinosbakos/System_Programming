@@ -1,0 +1,196 @@
+4612 Jakob Patton Czech_Republic 100 Covid-19 YES 17-5-1992
+2959 Melany Nunez Czech_Republic 100 HIV NO
+9520 Adriana Willis Czech_Republic 101 Covid-19 NO
+2540 Gloria Wise Czech_Republic 101 HIV NO
+9662 Summer Medina Czech_Republic 102 HIV YES 15-6-2013
+9023 Campbell Mcclure Czech_Republic 102 West_Nile_Fever YES 4-9-1950
+3576 Marc Navarro Czech_Republic 103 Spanish_Flu NO
+8183 Travis Cohen Czech_Republic 104 HIV NO
+9890 Uriel Mathis Czech_Republic 104 West_Nile_Fever NO
+2268 Taylor Marshall Czech_Republic 105 HIV YES 29-9-1995
+4 Santos Thornton Czech_Republic 106 HIV YES 19-6-1999
+7167 Nickolas Gomez Czech_Republic 107 Covid-19 YES 22-10-1906
+96 Patrick Perkins Czech_Republic 107 HIV NO
+5053 Grayson Simmons Czech_Republic 108 West_Nile_Fever YES 14-10-1953
+2508 Alonzo Barrett Czech_Republic 109 West_Nile_Fever YES 6-4-1970
+4898 Sterling Hurst Czech_Republic 10 HIV YES 9-12-1901
+8530 Tyrell Tran Czech_Republic 10 West_Nile_Fever NO
+8575 Jessica Richardson Czech_Republic 110 Ebola NO
+3752 Derrick Hartman Czech_Republic 110 Spanish_Flu YES 10-6-1922
+8080 Amaya Fitzpatrick Czech_Republic 111 Covid-19 YES 8-6-1961
+2167 Nolan Porter Czech_Republic 111 HIV YES 12-4-2003
+7906 Georgia Bennett Czech_Republic 112 Spanish_Flu YES 1-11-1993
+8527 Ean Blankenship Czech_Republic 113 Ebola NO
+1009 Tianna Stuart Czech_Republic 113 HIV YES 4-3-2005
+9610 Lydia Huffman Czech_Republic 114 Covid-19 YES 23-8-1934
+2897 Damarion Levy Czech_Republic 114 West_Nile_Fever NO
+3722 Elisha Vaughan Czech_Republic 115 Covid-19 NO
+1913 Immanuel Mcneil Czech_Republic 115 Spanish_Flu NO
+6313 Trevon Hunt Czech_Republic 116 Covid-19 NO
+9979 Jaydon Goodman Czech_Republic 116 Ebola NO
+4875 Adriel Lowery Czech_Republic 116 West_Nile_Fever YES 30-10-1976
+9807 Jaylon Chambers Czech_Republic 117 HIV YES 10-5-1983
+1464 Ayaan Mercer Czech_Republic 118 Spanish_Flu NO
+1346 Anabelle Rojas Czech_Republic 118 West_Nile_Fever YES 8-5-1947
+847 Karissa Guerrero Czech_Republic 119 HIV NO
+1157 Lana Garrison Czech_Republic 11 Ebola YES 11-2-1961
+9366 Zaire Potts Czech_Republic 11 West_Nile_Fever NO
+3678 Stella Franklin Czech_Republic 120 HIV NO
+8641 Alana Grant Czech_Republic 12 Ebola NO
+9965 Armando Richards Czech_Republic 12 Spanish_Flu YES 23-5-1935
+1993 Khloe Daugherty Czech_Republic 13 Ebola YES 28-10-1957
+6362 Stella Melendez Czech_Republic 13 West_Nile_Fever NO
+289 Denzel Ingram Czech_Republic 14 HIV YES 28-7-1993
+6913 Bryan Murphy Czech_Republic 15 HIV NO
+9053 Guadalupe Pollard Czech_Republic 15 West_Nile_Fever NO
+4887 Zechariah Rowe Czech_Republic 16 Ebola NO
+7290 Maren Wolf Czech_Republic 16 Spanish_Flu NO
+7245 Luke Calderon Czech_Republic 17 Covid-19 YES 22-12-1970
+4125 Franklin Forbes Czech_Republic 17 West_Nile_Fever NO
+4904 Logan Whitney Czech_Republic 18 Covid-19 YES 17-11-1981
+9361 Dalton Bates Czech_Republic 18 Ebola NO
+2886 Roselyn Griffin Czech_Republic 19 Ebola NO
+1471 Jarrett Mcclure Czech_Republic 19 West_Nile_Fever NO
+1434 Braden Brooks Czech_Republic 1 HIV NO
+6371 Ciara Michael Czech_Republic 20 Covid-19 NO
+3436 Miley Ballard Czech_Republic 20 Spanish_Flu YES 21-9-1975
+9589 Braiden Poole Czech_Republic 21 HIV YES 19-2-1953
+9122 Abdiel Poole Czech_Republic 21 West_Nile_Fever NO
+5993 Madison Daniels Czech_Republic 23 Covid-19 NO
+4415 Destinee Barajas Czech_Republic 23 Spanish_Flu NO
+8528 Alfredo Graves Czech_Republic 24 Covid-19 YES 18-5-2016
+708 Hector Young Czech_Republic 25 Covid-19 YES 24-5-1948
+8164 Charlotte Pacheco Czech_Republic 25 HIV YES 11-5-1904
+1639 Braydon Hubbard Czech_Republic 26 Covid-19 YES 12-2-2010
+5472 Kaylyn Rice Czech_Republic 27 Covid-19 YES 29-5-1963
+306 Morgan Dodson Czech_Republic 27 West_Nile_Fever NO
+3899 Gabrielle Choi Czech_Republic 28 Covid-19 YES 23-11-2010
+4083 Landon Compton Czech_Republic 28 West_Nile_Fever NO
+9548 Jerry Cooley Czech_Republic 29 Ebola YES 24-1-2015
+9560 Sienna Morton Czech_Republic 29 West_Nile_Fever NO
+3588 Miley Hodges Czech_Republic 2 Ebola YES 2-1-1988
+2887 Carly Gill Czech_Republic 2 Spanish_Flu YES 3-8-1939
+8096 Rogelio Fleming Czech_Republic 30 Spanish_Flu NO
+6227 Itzel Bishop Czech_Republic 31 HIV NO
+6302 Quinten Moody Czech_Republic 31 West_Nile_Fever YES 19-9-2007
+8390 Seth Santiago Czech_Republic 32 Ebola YES 13-2-1946
+8221 Jordyn Vance Czech_Republic 32 Spanish_Flu YES 20-4-1965
+333 Nathaly Berger Czech_Republic 33 HIV NO
+3042 Nelson Hebert Czech_Republic 33 Spanish_Flu YES 30-1-1997
+3135 Johan Russell Czech_Republic 34 Ebola NO
+8691 Jonathan Blevins Czech_Republic 34 Spanish_Flu YES 14-2-1964
+4291 Khalil Garrett Czech_Republic 35 Covid-19 NO
+5776 Payten Kaiser Czech_Republic 36 Ebola NO
+2282 Brooklynn Rodgers Czech_Republic 37 Ebola YES 21-7-1900
+9260 Ayaan Cain Czech_Republic 37 Spanish_Flu YES 8-2-1972
+3734 Colton Anthony Czech_Republic 38 Ebola YES 3-2-1991
+5869 Katie Booker Czech_Republic 38 Spanish_Flu NO
+4535 Deja Spence Czech_Republic 39 Covid-19 NO
+4109 Iyana Francis Czech_Republic 3 Covid-19 YES 3-11-2007
+7513 Leticia Johns Czech_Republic 3 West_Nile_Fever YES 18-2-1992
+4097 Delaney Shaffer Czech_Republic 40 Covid-19 YES 14-12-2009
+5758 Karma Fernandez Czech_Republic 40 West_Nile_Fever NO
+4214 Marlie Bass Czech_Republic 41 Ebola YES 17-10-1967
+9940 Mira Hahn Czech_Republic 41 West_Nile_Fever NO
+3151 Micaela Roy Czech_Republic 43 HIV NO
+892 Jessie Mclaughlin Czech_Republic 43 West_Nile_Fever NO
+6460 Carlie Acosta Czech_Republic 44 Spanish_Flu YES 14-4-1971
+8265 Gianna Henson Czech_Republic 45 Covid-19 YES 5-3-1993
+3738 Marisol Buckley Czech_Republic 46 HIV NO
+2527 Maximo Cross Czech_Republic 47 HIV YES 21-3-1973
+3214 Serenity Ray Czech_Republic 47 West_Nile_Fever NO
+2531 Ariella Jensen Czech_Republic 48 Spanish_Flu NO
+3132 Brogan Tran Czech_Republic 49 Ebola NO
+8576 Van Love Czech_Republic 49 Spanish_Flu NO
+5231 Maximus Schroeder Czech_Republic 4 Ebola NO
+721 Elliott Holden Czech_Republic 4 West_Nile_Fever NO
+9708 Amira Reid Czech_Republic 50 Spanish_Flu YES 26-1-1921
+2297 Hezekiah Maddox Czech_Republic 51 Spanish_Flu NO
+177 Omar Best Czech_Republic 52 Covid-19 YES 22-4-1926
+7774 Kellen Turner Czech_Republic 52 Spanish_Flu NO
+5784 Alisa Bryan Czech_Republic 53 Ebola NO
+6812 Willow Walls Czech_Republic 53 HIV YES 20-3-2005
+8252 Alexander Abbott Czech_Republic 54 Covid-19 NO
+5150 Blaze West Czech_Republic 54 West_Nile_Fever NO
+5815 Bernard Cobb Czech_Republic 55 Ebola YES 15-11-1977
+6332 Lucy Frederick Czech_Republic 55 HIV YES 2-12-1946
+2011 Ty Solomon Czech_Republic 56 Covid-19 NO
+458 Layne Morrison Czech_Republic 56 HIV NO
+284 Braiden Todd Czech_Republic 56 HIV YES 8-2-1913
+7347 Leslie Holland Czech_Republic 58 Covid-19 NO
+2873 Renee Robinson Czech_Republic 58 Spanish_Flu NO
+6063 Kyra Lynch Czech_Republic 59 Covid-19 NO
+6678 Noemi Anderson Czech_Republic 59 Ebola NO
+5050 Abbie Morales Czech_Republic 59 West_Nile_Fever NO
+8784 Lane Noble Czech_Republic 60 Covid-19 NO
+3032 Kadyn Olson Czech_Republic 60 HIV YES 29-2-2002
+4567 Noemi Flores Czech_Republic 61 Covid-19 NO
+4446 Jayce Cummings Czech_Republic 62 HIV NO
+2185 Mike Owen Czech_Republic 63 Ebola NO
+714 Micah Nolan Czech_Republic 63 HIV YES 9-10-2018
+3893 Pablo Levine Czech_Republic 63 West_Nile_Fever NO
+9444 Justin Kerr Czech_Republic 64 Ebola NO
+3586 Javion Cruz Czech_Republic 64 Spanish_Flu YES 26-2-1908
+4379 Cherish Odonnell Czech_Republic 65 HIV YES 11-1-1988
+7755 Mauricio Pennington Czech_Republic 66 Covid-19 YES 15-8-1900
+1225 Mira Werner Czech_Republic 66 HIV YES 23-10-1910
+8027 Pamela Russell Czech_Republic 67 HIV NO
+1868 Kiera Beard Czech_Republic 68 Covid-19 YES 29-11-1973
+7435 Paula Mcgrath Czech_Republic 68 Spanish_Flu NO
+1947 Diamond Lamb Czech_Republic 69 Covid-19 YES 1-9-1994
+1046 Cheyanne Jarvis Czech_Republic 69 West_Nile_Fever NO
+3623 Camille Petty Czech_Republic 6 Spanish_Flu NO
+7158 Peyton Wood Czech_Republic 6 West_Nile_Fever YES 17-11-1975
+9790 Dominick Walter Czech_Republic 70 HIV YES 30-6-1989
+9867 Kelton Kirk Czech_Republic 71 Ebola NO
+2786 Haylee Morris Czech_Republic 72 Ebola YES 29-4-1910
+8614 Zaiden Kemp Czech_Republic 73 Covid-19 YES 19-3-1956
+6185 Cash Hooper Czech_Republic 73 West_Nile_Fever NO
+6958 Joaquin Ochoa Czech_Republic 74 HIV NO
+6174 Hillary Clarke Czech_Republic 75 Ebola NO
+3833 Shiloh Houston Czech_Republic 75 Spanish_Flu NO
+2552 Marcus Howard Czech_Republic 76 Covid-19 YES 11-1-1912
+7144 David Manning Czech_Republic 76 West_Nile_Fever YES 5-9-1978
+1261 Jamarion Woodward Czech_Republic 77 HIV NO
+7130 Cale Hess Czech_Republic 78 Ebola NO
+2106 Yadiel Lang Czech_Republic 78 West_Nile_Fever NO
+749 Marley Richard Czech_Republic 79 Ebola YES 30-3-2009
+2787 Isabel Elliott Czech_Republic 7 Covid-19 YES 6-11-1940
+2830 Alivia Pearson Czech_Republic 80 Covid-19 NO
+6067 Marin Simpson Czech_Republic 80 HIV NO
+8566 Zaria Howard Czech_Republic 80 West_Nile_Fever NO
+6606 Alfred Mcclain Czech_Republic 81 Covid-19 YES 8-10-1947
+6001 Royce Ramos Czech_Republic 81 Spanish_Flu YES 22-3-1908
+1147 Moshe Garcia Czech_Republic 82 Ebola YES 9-1-1943
+8207 Carlee Ewing Czech_Republic 82 West_Nile_Fever NO
+4190 Zariah Riley Czech_Republic 83 Ebola NO
+7322 Jaden Harmon Czech_Republic 83 West_Nile_Fever NO
+6125 Zachery Henry Czech_Republic 84 Covid-19 NO
+4479 Rory Gonzalez Czech_Republic 84 Spanish_Flu YES 6-5-1926
+5514 Rhys Dougherty Czech_Republic 85 Covid-19 YES 15-3-1980
+6454 Amy Singleton Czech_Republic 86 Covid-19 NO
+2302 Sarahi Perry Czech_Republic 86 Spanish_Flu YES 6-7-1900
+2102 Rhianna Lester Czech_Republic 87 Covid-19 YES 10-9-1995
+9519 Davion Nunez Czech_Republic 87 Spanish_Flu NO
+9360 Jaden Holloway Czech_Republic 88 Spanish_Flu NO
+8563 Devon Gross Czech_Republic 89 Ebola NO
+4170 Emilie Ramirez Czech_Republic 89 West_Nile_Fever NO
+658 Francis Mcmahon Czech_Republic 8 Ebola NO
+2069 Harley Dixon Czech_Republic 8 HIV NO
+7384 Jazmin Terry Czech_Republic 90 Ebola NO
+6856 Jazmin Phelps Czech_Republic 91 Covid-19 YES 17-1-1945
+734 Chloe Yates Czech_Republic 91 Spanish_Flu YES 10-8-1990
+5714 Emily Schmitt Czech_Republic 92 Spanish_Flu YES 20-3-1929
+7081 Ricky Mercer Czech_Republic 94 Covid-19 NO
+7442 Hayden James Czech_Republic 94 Ebola YES 25-6-1971
+1361 Melvin Howe Czech_Republic 94 West_Nile_Fever NO
+623 Giovani Little Czech_Republic 95 Ebola NO
+9009 Atticus Reid Czech_Republic 95 Spanish_Flu NO
+166 Bradyn Nichols Czech_Republic 95 West_Nile_Fever YES 24-3-1935
+9579 Xavier Moss Czech_Republic 96 Ebola YES 3-4-1908
+2320 Braylon Wise Czech_Republic 97 Covid-19 NO
+9529 Darius Phillips Czech_Republic 97 Spanish_Flu NO
+6458 Rose Keith Czech_Republic 98 Ebola YES 26-9-1984
+6025 Adelyn Waters Czech_Republic 98 Spanish_Flu YES 19-8-2008
+2975 Bobby Johns Czech_Republic 99 West_Nile_Fever NO
+9105 Karlee Bean Czech_Republic 9 Ebola YES 12-4-2012

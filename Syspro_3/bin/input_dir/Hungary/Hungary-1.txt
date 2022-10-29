@@ -1,0 +1,192 @@
+7840 Aleena Cunningham Hungary 100 Ebola NO
+5762 Gabriella Colon Hungary 100 West_Nile_Fever NO
+7489 Amaya Krueger Hungary 101 Ebola YES 6-5-1940
+6264 Koen Terrell Hungary 101 Spanish_Flu YES 24-1-1946
+1184 Vicente Welch Hungary 101 West_Nile_Fever YES 21-1-2004
+8478 Jasper Solis Hungary 102 Spanish_Flu YES 27-6-2017
+3227 Brenda House Hungary 103 Spanish_Flu YES 23-9-1932
+2518 Ansley Grant Hungary 104 Ebola NO
+7865 Axel Case Hungary 104 Spanish_Flu NO
+5006 Elizabeth Odonnell Hungary 105 Ebola NO
+9438 Quinten Zamora Hungary 105 West_Nile_Fever NO
+71 Zara Choi Hungary 106 Ebola YES 3-7-2006
+2545 Kaelyn Roach Hungary 107 Ebola NO
+7313 Caden Johnston Hungary 107 HIV NO
+3393 Hailey Sanders Hungary 107 West_Nile_Fever YES 26-10-1912
+5941 Maxim Stark Hungary 108 Ebola YES 26-7-1942
+4848 Rayna Stevens Hungary 108 Spanish_Flu NO
+6945 Mallory Wise Hungary 108 West_Nile_Fever NO
+1263 Keon Haney Hungary 109 HIV NO
+7467 Kiersten Sellers Hungary 109 West_Nile_Fever NO
+9536 Reagan Archer Hungary 10 Spanish_Flu YES 18-6-1914
+4492 Amaya Merritt Hungary 110 HIV YES 9-2-1905
+9426 Mario Barnett Hungary 111 Spanish_Flu YES 5-1-1903
+3322 Sariah Barnes Hungary 112 HIV YES 17-6-1927
+8700 Chelsea Sexton Hungary 113 Covid-19 YES 7-10-1990
+232 Deshawn Hodges Hungary 113 HIV YES 26-12-1963
+6345 William Stevenson Hungary 114 Ebola NO
+2743 Ahmad Richard Hungary 114 West_Nile_Fever NO
+2312 Keegan Nicholson Hungary 115 Ebola YES 13-10-1922
+4896 Blaine Peterson Hungary 115 West_Nile_Fever NO
+4010 Wyatt Schultz Hungary 116 HIV YES 22-11-2019
+2583 Avery Waller Hungary 117 Ebola NO
+198 Laylah Buck Hungary 117 West_Nile_Fever YES 2-12-1995
+7548 Alexis Singleton Hungary 118 Spanish_Flu NO
+9240 Ava Shepherd Hungary 119 HIV YES 23-5-1935
+6625 Alissa Mejia Hungary 119 West_Nile_Fever YES 2-6-1957
+3525 Jairo Espinoza Hungary 11 Ebola YES 24-4-1941
+353 Tyrese Hart Hungary 120 Covid-19 NO
+3354 Madilynn Trevino Hungary 120 West_Nile_Fever NO
+1081 Atticus Boyle Hungary 12 HIV NO
+5703 Kelvin Hurst Hungary 12 Spanish_Flu YES 21-12-1906
+3018 Cora Sanford Hungary 13 Ebola YES 12-11-1955
+8934 Tyrone Bradford Hungary 13 Spanish_Flu YES 3-3-1914
+9451 Jaida Davies Hungary 14 Ebola YES 12-5-1904
+9216 Willow Lopez Hungary 14 West_Nile_Fever NO
+597 Gwendolyn Davila Hungary 15 Ebola YES 25-3-1902
+1031 Devan Garcia Hungary 16 Covid-19 NO
+5626 Harold Preston Hungary 16 West_Nile_Fever YES 9-2-1920
+5542 Jamar Moody Hungary 17 Spanish_Flu NO
+1425 Braxton Hardy Hungary 18 Covid-19 YES 9-11-1984
+3909 Ty Burch Hungary 19 Spanish_Flu NO
+103 Skyler Briggs Hungary 1 Covid-19 YES 29-5-1973
+6973 Dominic Horn Hungary 1 Spanish_Flu NO
+6736 Kymani Sparks Hungary 20 Ebola NO
+1269 Ishaan Russo Hungary 21 Covid-19 YES 27-5-1983
+8941 Mylee Cline Hungary 21 Spanish_Flu YES 3-11-1909
+3000 Gauge Beck Hungary 22 Spanish_Flu NO
+5236 Landen Harmon Hungary 23 HIV NO
+6858 Abagail Tucker Hungary 24 Ebola NO
+1586 Rosemary Mcmillan Hungary 24 West_Nile_Fever NO
+5178 Sierra Travis Hungary 25 Ebola YES 10-2-1907
+5723 Jovanni Gay Hungary 25 Spanish_Flu YES 4-11-1958
+9922 Angie Daniels Hungary 26 West_Nile_Fever YES 15-4-1912
+7413 Frankie Bowman Hungary 27 West_Nile_Fever NO
+97 Paris Hardin Hungary 27 West_Nile_Fever YES 30-4-1955
+8586 Miguel Crosby Hungary 28 Ebola NO
+8171 Ernest Marquez Hungary 28 West_Nile_Fever NO
+4390 Kylee Charles Hungary 29 Spanish_Flu NO
+3577 Shyanne Suarez Hungary 2 Covid-19 YES 13-8-1963
+5994 Keyon Hodges Hungary 2 Spanish_Flu NO
+3818 Haiden Choi Hungary 30 Ebola YES 26-5-1916
+647 Zain Rice Hungary 30 Spanish_Flu YES 2-2-1959
+6122 Joe Noble Hungary 31 Covid-19 NO
+8855 Allie Waters Hungary 31 HIV YES 11-2-1978
+9626 Nola Cherry Hungary 32 Ebola NO
+1931 Rene Hardy Hungary 32 Spanish_Flu YES 18-5-1934
+636 Kian Davenport Hungary 33 Covid-19 YES 10-11-1951
+7059 Kayleigh Hayden Hungary 33 HIV NO
+2569 Heidi Waters Hungary 34 Covid-19 NO
+7354 Cecilia Thompson Hungary 34 Ebola YES 14-7-1952
+493 Gillian English Hungary 34 West_Nile_Fever YES 6-3-1962
+1708 Felix Briggs Hungary 35 West_Nile_Fever NO
+6143 Shirley Walker Hungary 36 West_Nile_Fever NO
+8415 Katie Moss Hungary 37 Ebola NO
+8588 Jaden David Hungary 38 Covid-19 YES 24-4-2009
+9859 Clayton Swanson Hungary 39 Covid-19 NO
+5652 Semaj Strickland Hungary 39 West_Nile_Fever YES 15-6-2009
+2431 Evelyn Sharp Hungary 3 HIV NO
+8943 Adrianna Shepard Hungary 40 HIV NO
+5590 Jaylee Ingram Hungary 41 Ebola NO
+400 Myles David Hungary 41 West_Nile_Fever NO
+9337 Desmond Curtis Hungary 42 Ebola NO
+4867 Savanah Solis Hungary 42 West_Nile_Fever NO
+8838 Marisol Cervantes Hungary 43 Ebola NO
+9721 Malakai Beasley Hungary 44 Covid-19 YES 30-8-1965
+3205 Aden Price Hungary 45 Ebola NO
+8714 Leland Curry Hungary 45 West_Nile_Fever NO
+952 Carmelo Villanueva Hungary 46 Ebola YES 17-12-1986
+6235 Malia Ruiz Hungary 47 Spanish_Flu YES 11-8-1943
+1992 Wyatt Waller Hungary 48 Ebola YES 8-9-2004
+4891 Vivian Brooks Hungary 49 Covid-19 YES 6-10-2011
+3902 Ty Hickman Hungary 4 Covid-19 NO
+4785 Lorenzo Russell Hungary 4 HIV NO
+3962 Dangelo Walter Hungary 50 Covid-19 YES 21-6-2008
+2144 Michael Robinson Hungary 50 Ebola YES 16-12-1984
+9185 Conor Meyers Hungary 50 Spanish_Flu YES 11-12-1983
+4188 Kyleigh Lopez Hungary 51 Covid-19 YES 7-7-2000
+4410 Serenity Copeland Hungary 51 West_Nile_Fever NO
+2679 Zachary Riddle Hungary 52 Covid-19 YES 28-3-1958
+1859 Belinda Wiley Hungary 53 Ebola YES 22-5-1905
+5151 Trinity Sanford Hungary 54 Ebola NO
+3434 Brett Graves Hungary 54 HIV YES 28-3-1952
+8020 Zack Sanford Hungary 54 West_Nile_Fever NO
+8881 Kieran Chan Hungary 55 HIV NO
+3454 Roman Buckley Hungary 56 Spanish_Flu YES 6-9-1941
+6151 Vance Higgins Hungary 58 Covid-19 YES 22-9-1937
+5896 Micah Stein Hungary 59 Covid-19 NO
+1872 Ivy Morrison Hungary 59 West_Nile_Fever YES 13-8-2007
+5376 Coby Grimes Hungary 5 Covid-19 YES 20-1-1996
+2136 Dayami Lambert Hungary 5 HIV YES 17-1-1955
+456 Axel Ho Hungary 60 Ebola NO
+9746 Isabel Webb Hungary 60 West_Nile_Fever NO
+3910 Shayna Page Hungary 61 Ebola YES 18-1-1920
+9737 Jabari Nelson Hungary 61 Spanish_Flu NO
+5836 Gilbert Mullins Hungary 62 Covid-19 NO
+4854 Kolby Schaefer Hungary 63 Covid-19 NO
+9500 Taniya Miles Hungary 63 Spanish_Flu YES 8-11-1954
+6720 Conrad Bailey Hungary 64 Ebola NO
+4473 Lina Lara Hungary 64 HIV NO
+601 Mitchell Ramsey Hungary 64 West_Nile_Fever YES 7-2-1909
+404 Slade Norris Hungary 65 Ebola NO
+4368 Jaidyn Solomon Hungary 65 West_Nile_Fever YES 4-5-1989
+6079 Makenzie Mann Hungary 66 Ebola NO
+7043 Danika Mitchell Hungary 67 HIV YES 13-11-2010
+9163 Davis Abbott Hungary 68 Ebola NO
+375 Lainey Cooke Hungary 68 West_Nile_Fever YES 19-2-1937
+8922 Dylan Grant Hungary 69 HIV YES 28-5-1939
+7072 Serena Barry Hungary 69 West_Nile_Fever YES 24-4-1906
+2874 Yadiel Leonard Hungary 6 HIV YES 5-7-1914
+490 Emilio Mcclure Hungary 70 Covid-19 YES 2-8-1963
+3618 Felipe Rios Hungary 71 Ebola NO
+7438 Elsa Lowery Hungary 71 HIV NO
+2002 Deja Jefferson Hungary 71 West_Nile_Fever YES 12-11-1934
+7861 Ace Mcmillan Hungary 72 HIV YES 19-6-2014
+4103 Barrett Hutchinson Hungary 73 Ebola NO
+3427 Talia Patel Hungary 74 Covid-19 YES 5-8-1912
+5900 Gianna Powell Hungary 74 West_Nile_Fever NO
+9694 Yosef Dougherty Hungary 75 Spanish_Flu NO
+261 Corinne Morris Hungary 76 Spanish_Flu NO
+7676 Sawyer Barton Hungary 77 Ebola YES 25-11-1978
+3123 Kaeden Duffy Hungary 78 Covid-19 NO
+4031 Gideon Riggs Hungary 79 Covid-19 YES 15-4-1909
+4727 Kenyon Beard Hungary 79 Spanish_Flu NO
+6241 Aubrie Beltran Hungary 79 West_Nile_Fever NO
+3506 Marcus Ferguson Hungary 7 Ebola NO
+5041 Lorena Valdez Hungary 7 West_Nile_Fever YES 11-8-2002
+1703 Dillan Shepard Hungary 81 Covid-19 NO
+6060 Marin Velasquez Hungary 81 HIV NO
+7501 Destinee Howard Hungary 81 Spanish_Flu YES 25-12-2002
+7069 Joshua Ferrell Hungary 82 Covid-19 NO
+2296 Jose Oliver Hungary 83 Covid-19 YES 8-1-1975
+8693 Jovan Shannon Hungary 83 West_Nile_Fever YES 7-3-1985
+1440 Jaron Smith Hungary 84 Ebola YES 23-1-1970
+3065 Ashtyn Spence Hungary 85 Ebola NO
+2227 Cade Blackwell Hungary 85 West_Nile_Fever NO
+5842 Frida Dean Hungary 86 HIV YES 21-5-1929
+3528 Adriel Graves Hungary 86 West_Nile_Fever YES 6-12-1954
+468 Evelyn Clark Hungary 87 Ebola NO
+6132 Angela Gates Hungary 87 West_Nile_Fever YES 9-10-1996
+8544 Dario Carpenter Hungary 89 Covid-19 NO
+7092 Yesenia Gillespie Hungary 89 HIV NO
+1714 Keyon Miranda Hungary 8 Covid-19 NO
+6729 Eleanor Goodwin Hungary 8 Spanish_Flu NO
+3786 Sergio Dickson Hungary 90 Covid-19 YES 24-6-1966
+842 Lindsay Lyons Hungary 90 HIV YES 11-7-1984
+2140 Alisson Rush Hungary 91 Covid-19 YES 24-3-2001
+9212 Zechariah Webster Hungary 91 Ebola YES 27-8-1979
+1305 Jude Irwin Hungary 91 Spanish_Flu YES 2-3-1989
+5378 Makaila Cuevas Hungary 93 Covid-19 NO
+3244 Yurem Kidd Hungary 93 Covid-19 YES 7-12-1989
+343 Paige Silva Hungary 94 Covid-19 NO
+7749 Hailee Wilkerson Hungary 94 HIV YES 23-8-1908
+7095 Jaxson Cisneros Hungary 94 West_Nile_Fever NO
+1073 Dillon Mann Hungary 95 Covid-19 YES 25-4-1934
+7372 Adolfo Castaneda Hungary 95 West_Nile_Fever YES 8-1-1945
+1508 Walker Tate Hungary 96 Spanish_Flu YES 21-2-1950
+1473 Bernard Mason Hungary 97 Ebola NO
+4475 Augustus Shah Hungary 98 Covid-19 NO
+6263 Chaim Davidson Hungary 99 Ebola NO
+1903 Clay Cannon Hungary 99 Spanish_Flu NO
+3701 Patricia Grimes Hungary 9 Ebola YES 26-1-1940
+4543 Leo Fritz Hungary 9 Spanish_Flu YES 3-10-1932

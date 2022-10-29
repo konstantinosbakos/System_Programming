@@ -1,0 +1,203 @@
+2859 Michaela Peters Austria 100 Spanish_Flu NO
+7689 Delilah Spears Austria 100 West_Nile_Fever YES 15-4-1909
+1432 Danika Blevins Austria 101 Spanish_Flu NO
+8229 Marisa Webb Austria 102 HIV NO
+6533 Saniyah Kerr Austria 103 Ebola NO
+4678 Silas Glover Austria 103 Spanish_Flu NO
+5523 Myles Salazar Austria 104 Ebola NO
+9242 Jesse Stevenson Austria 104 Spanish_Flu NO
+4204 Preston Hodges Austria 105 HIV YES 12-5-1993
+268 Donavan Mcknight Austria 106 Covid-19 NO
+6949 Jane Shelton Austria 106 HIV NO
+4914 Jaidyn Bradford Austria 107 Covid-19 NO
+9299 Sara Mendoza Austria 107 Spanish_Flu NO
+2848 Reece Molina Austria 108 Covid-19 NO
+8988 Isis Craig Austria 108 Ebola YES 2-10-1967
+1007 Jordin Downs Austria 109 HIV NO
+6108 Aydan Stark Austria 109 West_Nile_Fever YES 1-2-1987
+4306 Kiana Collins Austria 10 HIV YES 5-6-2018
+5629 Triston Norton Austria 110 Ebola YES 18-5-2013
+5859 Annie Perkins Austria 110 Spanish_Flu NO
+9998 Yair Ayers Austria 110 West_Nile_Fever NO
+5449 Eden Simon Austria 111 HIV YES 11-3-2010
+817 Lilyana Phillips Austria 112 Ebola YES 20-10-1932
+2905 Colin Walsh Austria 113 Covid-19 NO
+2399 Roselyn Riddle Austria 113 Ebola YES 25-3-1929
+652 Makai Saunders Austria 113 West_Nile_Fever YES 12-6-1965
+5491 Marie Villa Austria 114 HIV NO
+4743 Salvatore Kirk Austria 114 Spanish_Flu NO
+9084 Krystal Joyce Austria 114 West_Nile_Fever YES 28-6-1938
+5903 Francis Welch Austria 115 Spanish_Flu YES 17-8-1977
+6547 Daniela Rios Austria 116 Spanish_Flu NO
+5513 Sherlyn Franco Austria 117 Covid-19 NO
+7921 Leah Wolfe Austria 117 Spanish_Flu YES 14-7-1913
+2972 Elizabeth Mcdowell Austria 118 HIV NO
+3314 Bryson Galvan Austria 119 Covid-19 YES 26-4-1928
+8190 Araceli Moyer Austria 119 HIV YES 14-8-1912
+6750 Marquis Waters Austria 119 West_Nile_Fever YES 8-9-1929
+9791 Lyric Gutierrez Austria 11 West_Nile_Fever NO
+7633 Melvin Hendricks Austria 120 HIV YES 22-2-1919
+2804 Ayana Ruiz Austria 12 Ebola NO
+6597 Dallas Durham Austria 12 Spanish_Flu YES 17-2-1928
+9898 Kade Harmon Austria 13 Spanish_Flu NO
+8351 Rogelio Yu Austria 14 Covid-19 NO
+5660 Zoey Braun Austria 14 Spanish_Flu YES 24-3-1979
+109 Sandra Townsend Austria 15 HIV NO
+9646 Zechariah Avery Austria 15 Spanish_Flu YES 13-9-2013
+7065 Ashlee Mclaughlin Austria 16 Ebola NO
+6570 Dania Watson Austria 17 Covid-19 YES 20-7-1951
+8540 Mekhi Duke Austria 17 Spanish_Flu NO
+4860 Branson Lam Austria 18 HIV YES 5-2-2019
+8717 Reese Barker Austria 19 Spanish_Flu NO
+2478 Kaleigh Hood Austria 1 HIV NO
+6815 Anna Davila Austria 1 West_Nile_Fever NO
+5744 Glenn Ramirez Austria 20 HIV NO
+4514 Brayden Suarez Austria 21 HIV NO
+7735 Bailey Monroe Austria 22 Covid-19 YES 19-6-1952
+4200 Kenna Lewis Austria 22 Spanish_Flu NO
+8732 Judah Mclaughlin Austria 23 HIV NO
+4223 Miles Bray Austria 24 Covid-19 NO
+9597 Johan Frederick Austria 24 Ebola YES 19-10-1929
+1902 Stephany Pace Austria 24 West_Nile_Fever YES 4-6-1994
+6971 Deandre Pugh Austria 25 Ebola YES 2-6-1986
+2383 Chase Watkins Austria 25 Spanish_Flu NO
+8014 Maxim Bolton Austria 26 Ebola YES 26-5-2002
+4669 Ximena Santiago Austria 26 Spanish_Flu NO
+9213 Charlie Vaughn Austria 27 Ebola NO
+8391 Sylvia Arroyo Austria 28 HIV NO
+2073 Essence Bautista Austria 29 Covid-19 NO
+9602 Nataly Blake Austria 29 Spanish_Flu YES 14-6-2019
+9774 Kayla Reilly Austria 2 HIV NO
+7941 Janessa Morse Austria 30 Covid-19 NO
+1506 Vanessa Tyler Austria 30 West_Nile_Fever NO
+8807 Laci Mercado Austria 31 Covid-19 YES 22-6-1932
+124 Kaylee Cline Austria 31 West_Nile_Fever YES 26-1-1957
+2761 Abel Freeman Austria 33 Covid-19 NO
+2890 Keyla Whitaker Austria 34 Ebola YES 24-11-1917
+5163 Hallie Bowen Austria 35 Ebola NO
+4782 Jalen Valenzuela Austria 35 Spanish_Flu YES 6-10-1986
+6285 Karli Rasmussen Austria 36 West_Nile_Fever NO
+1739 Brisa Chandler Austria 37 Spanish_Flu NO
+3204 Anaya Trevino Austria 37 West_Nile_Fever YES 12-7-2002
+367 Laura Vazquez Austria 38 Spanish_Flu NO
+8819 Aaron Cantrell Austria 39 Ebola NO
+4275 Karina Mckinney Austria 3 Covid-19 NO
+5134 Arianna Lamb Austria 3 HIV NO
+7505 Ignacio Benson Austria 3 West_Nile_Fever YES 23-8-2019
+4018 Jenny Foley Austria 40 Ebola NO
+1291 Dakota Price Austria 40 Spanish_Flu YES 18-11-1920
+5592 Lyric Jarvis Austria 41 Ebola NO
+5948 Keegan Valdez Austria 42 HIV NO
+4736 Jaylene Gilmore Austria 43 Ebola NO
+4131 Jaidyn Strong Austria 43 Spanish_Flu YES 5-7-2017
+9459 Jared Alvarez Austria 44 Ebola YES 15-11-1984
+6325 Bailee Solis Austria 45 Ebola YES 22-7-1949
+3869 Jake Anderson Austria 46 Covid-19 NO
+9969 Oswaldo Wilson Austria 46 HIV YES 20-4-2003
+6601 Jude Hill Austria 46 Spanish_Flu YES 27-8-1994
+86 Gisselle Vargas Austria 47 HIV YES 14-6-1979
+3466 Jaqueline Salazar Austria 48 Covid-19 NO
+4167 Dayanara Taylor Austria 48 HIV YES 9-4-1956
+7844 Kennedi Perez Austria 49 Covid-19 YES 15-7-1909
+5382 Emilia Gay Austria 49 West_Nile_Fever YES 30-7-1926
+648 Christina Mahoney Austria 50 Covid-19 NO
+8393 Augustus Rosario Austria 50 Spanish_Flu NO
+4619 Logan Hensley Austria 50 West_Nile_Fever YES 20-8-1998
+8115 Dylan Kaiser Austria 51 HIV NO
+2314 Giana Carson Austria 52 Ebola NO
+5120 Wade Huffman Austria 52 Spanish_Flu NO
+4440 Elliana Durham Austria 52 West_Nile_Fever YES 5-12-1924
+6674 Makena Thomas Austria 53 HIV NO
+2915 Todd Humphrey Austria 53 West_Nile_Fever YES 23-7-2013
+2714 Hannah Glenn Austria 54 West_Nile_Fever NO
+5864 Jean Fisher Austria 55 HIV YES 18-10-1956
+3115 Noelle Odonnell Austria 55 West_Nile_Fever YES 5-9-1934
+7217 Camryn Reeves Austria 56 HIV NO
+7522 India Frost Austria 56 West_Nile_Fever YES 16-11-1922
+6576 Nyasia Christian Austria 57 HIV NO
+6361 Zaid Horn Austria 57 Spanish_Flu YES 29-5-1988
+7143 Dominick Maxwell Austria 57 West_Nile_Fever YES 5-8-1923
+4601 Octavio Lucas Austria 58 West_Nile_Fever YES 18-5-1947
+3005 Sebastian Ball Austria 59 HIV NO
+1989 Duncan Combs Austria 59 Spanish_Flu YES 20-4-1996
+48 Arely Flowers Austria 5 Ebola NO
+6948 Giancarlo Mclaughlin Austria 5 West_Nile_Fever NO
+2750 Jefferson Monroe Austria 60 Ebola YES 29-2-2002
+255 Graham Riley Austria 61 Ebola NO
+8322 Mckenna West Austria 61 HIV YES 13-6-2009
+6103 India Stokes Austria 62 Covid-19 YES 6-10-1961
+3590 Erin Zavala Austria 62 Spanish_Flu YES 26-8-1963
+6409 Jovanni Gallegos Austria 63 Ebola YES 25-1-2007
+9513 Chaya Cherry Austria 64 HIV NO
+1119 Christina Cardenas Austria 64 West_Nile_Fever NO
+5031 Nolan Rubio Austria 65 Covid-19 NO
+5964 Kyson Vaughan Austria 65 Spanish_Flu NO
+384 Roberto Forbes Austria 66 Ebola YES 21-7-1956
+7511 Clara Donaldson Austria 66 West_Nile_Fever YES 28-10-1981
+9856 Valentino Landry Austria 67 Spanish_Flu YES 17-9-1944
+4209 Antony Landry Austria 68 Covid-19 YES 3-2-1982
+179 Mara Bullock Austria 68 HIV YES 18-3-1922
+5068 Cloe Peck Austria 68 West_Nile_Fever NO
+3753 Beau Cowan Austria 69 Ebola NO
+5856 Brody Dunlap Austria 69 HIV NO
+737 Kyan Ellis Austria 69 West_Nile_Fever YES 26-3-1983
+3502 Carmelo Wu Austria 6 HIV NO
+4182 Felipe Avery Austria 6 West_Nile_Fever YES 28-8-1919
+8102 Kristen Charles Austria 70 Spanish_Flu YES 6-7-1917
+8293 Drew Hughes Austria 71 Covid-19 YES 19-6-2016
+3326 Jadiel Arroyo Austria 71 HIV YES 3-11-1965
+7738 Ayden Pope Austria 72 Covid-19 YES 8-2-1960
+5237 Eve Carter Austria 72 Spanish_Flu YES 18-10-1991
+8325 Van Barton Austria 73 Covid-19 NO
+5427 Franklin Hardy Austria 73 HIV NO
+60 Cassandra Obrien Austria 74 Covid-19 NO
+921 Lamar Esparza Austria 74 Spanish_Flu YES 13-11-1912
+6890 Noel Shepard Austria 75 Ebola NO
+7625 Baron Nunez Austria 75 West_Nile_Fever NO
+3556 Tamara Kaiser Austria 76 Spanish_Flu YES 22-9-1977
+7756 Jarrett Carr Austria 77 West_Nile_Fever NO
+6327 Lewis Sims Austria 78 HIV NO
+4815 Alexa Washington Austria 79 Covid-19 YES 10-3-1948
+8079 Franklin Campos Austria 7 Covid-19 YES 17-10-1946
+3413 Hugh Arroyo Austria 7 Spanish_Flu NO
+3710 Uriel Mercer Austria 80 Ebola NO
+2405 Harrison Santiago Austria 80 Spanish_Flu NO
+7115 Jaylen Walton Austria 81 Covid-19 NO
+6873 Mary Krueger Austria 81 Ebola YES 5-5-1982
+3092 Cohen Nicholson Austria 81 West_Nile_Fever NO
+7607 Kellen Stout Austria 82 Ebola YES 30-1-1965
+1523 Elyse Grant Austria 83 Covid-19 NO
+5239 Bridget Mcpherson Austria 83 Ebola NO
+7203 Janiah Hinton Austria 83 West_Nile_Fever NO
+6589 Jaqueline Ho Austria 84 Covid-19 YES 2-2-1994
+3680 Jordyn Mcconnell Austria 84 HIV YES 1-3-2019
+8966 Melvin Malone Austria 85 Covid-19 YES 7-11-1985
+6488 Kinley Esparza Austria 86 Ebola NO
+1516 Xander Hinton Austria 86 Spanish_Flu YES 17-9-1938
+4274 Melina Buchanan Austria 87 HIV NO
+3344 Annabella Thornton Austria 88 Covid-19 YES 26-9-1986
+1078 Serenity Conrad Austria 88 Ebola YES 8-6-2011
+6112 Damion Sparks Austria 88 West_Nile_Fever NO
+1601 Carmelo Cummings Austria 89 HIV NO
+5978 Antonio Schmitt Austria 8 Covid-19 YES 26-1-1988
+5191 Quincy Keith Austria 8 HIV YES 1-8-1940
+7517 Karly Oconnell Austria 8 West_Nile_Fever NO
+8030 Oscar Robles Austria 90 Ebola NO
+1807 Jasmine Mcdaniel Austria 90 Spanish_Flu YES 12-1-1912
+3570 Dominique Park Austria 91 Spanish_Flu YES 1-2-1967
+2724 Adrienne Hendricks Austria 91 West_Nile_Fever YES 7-11-1985
+6640 Luciano Camacho Austria 92 Spanish_Flu YES 16-3-2002
+1849 Crystal Copeland Austria 93 Covid-19 YES 14-7-2008
+433 Lillie Valentine Austria 93 HIV NO
+6399 Nathan Reid Austria 93 Spanish_Flu NO
+144 Kaya Alvarez Austria 94 Covid-19 YES 18-5-1913
+7666 Mario Walton Austria 94 Ebola NO
+194 Melany Hubbard Austria 94 Spanish_Flu YES 25-3-2014
+7848 Khalil Fernandez Austria 95 Ebola NO
+2154 Miley Mcgrath Austria 95 Spanish_Flu YES 1-1-1972
+5653 Paris Olson Austria 96 Covid-19 NO
+104 Jadon Bradshaw Austria 97 HIV NO
+1404 Akira Fitzgerald Austria 98 Ebola NO
+4853 Jordyn Dodson Austria 98 Spanish_Flu YES 5-3-1960
+6523 Carl Cantu Austria 99 Spanish_Flu YES 14-12-1904
+1128 Khalil Cowan Austria 9 Spanish_Flu NO

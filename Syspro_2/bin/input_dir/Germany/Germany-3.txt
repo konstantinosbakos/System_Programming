@@ -1,0 +1,197 @@
+9987 Cristal Richards Germany 100 Ebola NO
+5518 Julianne Sheppard Germany 100 Spanish_Flu NO
+52 Anahi Zuniga Germany 101 HIV NO
+262 Melody Ruiz Germany 101 West_Nile_Fever NO
+7226 Valentin Hurley Germany 103 Covid-19 NO
+987 Colt Haley Germany 103 Spanish_Flu NO
+739 Alan Mullins Germany 104 Covid-19 YES 10-1-2016
+1420 Maren Fitzgerald Germany 104 West_Nile_Fever NO
+5765 Marcelo Conley Germany 105 Spanish_Flu YES 4-4-1905
+2559 Priscilla Adkins Germany 106 Covid-19 NO
+609 Nigel Hanna Germany 106 West_Nile_Fever NO
+1240 Adyson Pennington Germany 107 HIV YES 5-5-2002
+5570 Sophia Rubio Germany 107 West_Nile_Fever YES 20-6-1900
+9734 Naima Carter Germany 108 Ebola NO
+2329 Ruben Bird Germany 109 Ebola NO
+4982 Keagan Roach Germany 109 Spanish_Flu YES 25-3-1933
+4505 Holly Serrano Germany 109 West_Nile_Fever YES 24-2-1961
+727 Tyree Thornton Germany 10 Spanish_Flu NO
+582 Sidney Stewart Germany 10 West_Nile_Fever YES 15-2-1951
+4310 Semaj Houston Germany 110 West_Nile_Fever YES 18-2-1991
+8547 Jaden Walton Germany 111 HIV YES 19-5-1981
+4693 Ximena Berg Germany 112 Covid-19 NO
+3411 Dustin Rubio Germany 112 Spanish_Flu YES 27-1-1906
+8673 Dayami Hernandez Germany 113 Covid-19 YES 20-4-1986
+8166 Jaslyn Holloway Germany 113 HIV NO
+4360 Shea Fields Germany 114 Ebola NO
+2739 Diya May Germany 115 Covid-19 YES 3-4-1900
+4271 Nyla Gibbs Germany 116 HIV YES 1-6-1999
+4092 Neil Bates Germany 116 West_Nile_Fever YES 29-12-1932
+816 Gretchen Yang Germany 117 HIV NO
+585 Andre Mcconnell Germany 118 HIV NO
+3237 Taliyah Leach Germany 119 Ebola YES 23-12-1915
+7451 Jayvion Lozano Germany 119 West_Nile_Fever YES 15-5-1900
+5 Ayla Obrien Germany 11 Ebola YES 13-1-1905
+5360 Leonardo Dennis Germany 11 West_Nile_Fever YES 29-8-2011
+4179 Arturo Mckay Germany 120 Spanish_Flu YES 14-10-1900
+741 Selina Short Germany 12 Covid-19 NO
+940 Jaime Chambers Germany 13 Covid-19 NO
+8445 Madyson Raymond Germany 13 HIV NO
+6733 Hope Adams Germany 13 Spanish_Flu YES 15-2-1975
+8041 Avery Carson Germany 13 West_Nile_Fever NO
+791 Ean Browning Germany 14 Ebola NO
+1610 Angel Valenzuela Germany 14 HIV YES 6-10-1979
+5968 Eduardo Ware Germany 15 Ebola NO
+5350 Thaddeus Morrow Germany 16 Covid-19 NO
+3392 Peyton Wilkinson Germany 16 Spanish_Flu NO
+755 Deanna Stafford Germany 17 Covid-19 NO
+6790 Elliott Collier Germany 17 West_Nile_Fever NO
+831 Hunter Horne Germany 18 West_Nile_Fever NO
+1711 Madeline Holloway Germany 19 HIV NO
+6707 Devin Bell Germany 1 HIV NO
+8836 Margaret Pierce Germany 1 West_Nile_Fever YES 12-6-2009
+1682 Quincy Lamb Germany 20 Ebola NO
+2335 Marlee Middleton Germany 20 West_Nile_Fever YES 25-4-1910
+4062 Jazlynn Stout Germany 22 Spanish_Flu YES 10-7-1983
+3868 Leanna Clay Germany 22 West_Nile_Fever YES 16-5-1957
+68 Adelaide Meyer Germany 23 HIV NO
+7301 Veronica Yoder Germany 24 HIV NO
+9268 Martin Gray Germany 25 Covid-19 NO
+9945 Amy Bender Germany 25 West_Nile_Fever YES 10-10-1951
+8666 Isla Lewis Germany 26 Ebola YES 19-1-1930
+8269 Leonardo Larson Germany 26 West_Nile_Fever YES 26-9-1916
+4259 Deshawn Gross Germany 27 HIV YES 1-10-1920
+1744 Kendall Case Germany 27 West_Nile_Fever NO
+2186 Peyton Werner Germany 28 Spanish_Flu NO
+4628 Ariella Zimmerman Germany 29 Ebola NO
+5732 Saige Forbes Germany 29 Spanish_Flu YES 2-2-1981
+1797 Allan Liu Germany 29 West_Nile_Fever YES 1-2-1949
+4004 Kristen Kline Germany 30 Covid-19 NO
+7821 Kennedi Mckay Germany 30 Ebola YES 8-4-1928
+9374 Quinton Herman Germany 30 West_Nile_Fever YES 8-8-1950
+7498 Gabrielle Miles Germany 31 Spanish_Flu NO
+3114 Deanna Nash Germany 32 Covid-19 NO
+8114 Wayne Hicks Germany 32 Spanish_Flu NO
+7664 Selena Lane Germany 33 HIV YES 11-4-1946
+1970 Addisyn Barker Germany 34 HIV NO
+3634 Jermaine Singh Germany 35 Ebola NO
+9826 Abigayle Bowen Germany 35 West_Nile_Fever NO
+1423 Kaliyah Norton Germany 36 Ebola YES 16-9-1952
+2428 Jasper Lee Germany 37 Covid-19 NO
+270 Jeffrey Winters Germany 37 West_Nile_Fever NO
+3071 Tania Chan Germany 38 HIV NO
+23 Kaylyn Valentine Germany 38 West_Nile_Fever NO
+9948 Max Klein Germany 39 Covid-19 YES 3-8-1924
+9013 Terrance Medina Germany 39 West_Nile_Fever NO
+520 Mackenzie Acosta Germany 3 Spanish_Flu NO
+8378 Lainey Jenkins Germany 40 HIV NO
+7915 Nelson Bradshaw Germany 40 Spanish_Flu YES 8-3-1931
+4596 Kristina Arnold Germany 41 Covid-19 YES 9-1-2005
+3364 Raina Friedman Germany 41 West_Nile_Fever YES 19-7-1905
+1696 Antoine Valenzuela Germany 42 HIV YES 11-11-1927
+1142 Jacoby Bolton Germany 43 Covid-19 YES 6-7-1909
+5416 Madalynn Keith Germany 43 HIV NO
+7903 Jose Andersen Germany 43 Spanish_Flu NO
+117 Ryann Graham Germany 44 Covid-19 NO
+9889 Talia Arnold Germany 44 HIV YES 10-7-2009
+5643 Thaddeus Wu Germany 45 HIV NO
+980 Hailee Griffith Germany 46 Covid-19 NO
+4771 Scarlet Mckay Germany 46 West_Nile_Fever NO
+4422 Danica Snow Germany 47 HIV NO
+8495 London Donovan Germany 48 Ebola NO
+6250 Emmanuel Short Germany 49 Covid-19 YES 26-3-1975
+3179 Norah Lin Germany 49 West_Nile_Fever YES 22-12-1938
+5036 Devin Carey Germany 4 HIV YES 24-12-1960
+7976 Brendon Colon Germany 50 Covid-19 NO
+7243 Ryder Cline Germany 50 Ebola YES 23-7-2011
+245 Amaris Huang Germany 50 HIV YES 3-3-1971
+8868 Rey Hart Germany 51 Ebola YES 6-12-1960
+5410 Keyon Mercer Germany 51 West_Nile_Fever NO
+7746 Kaya Payne Germany 52 Covid-19 NO
+4855 Isaias Patel Germany 52 West_Nile_Fever YES 17-2-1924
+849 Cloe Tanner Germany 53 Ebola YES 30-9-1957
+6342 Lucille Bright Germany 53 West_Nile_Fever NO
+5733 Cole Sheppard Germany 54 Spanish_Flu YES 14-7-2008
+3223 Tiara Collier Germany 55 Covid-19 NO
+3387 Zane Shea Germany 55 Ebola YES 10-7-1988
+7830 Julia Hawkins Germany 55 Spanish_Flu YES 29-3-1981
+3650 Sienna Love Germany 56 Covid-19 YES 28-1-1914
+4835 Kelton Bautista Germany 56 West_Nile_Fever YES 25-2-1943
+8684 Darryl Merritt Germany 57 Ebola NO
+6532 Rigoberto Branch Germany 57 Spanish_Flu YES 18-3-1977
+1912 Camden Fox Germany 58 Ebola NO
+9332 Kingston Sweeney Germany 59 Ebola NO
+7901 Steve Vasquez Germany 5 HIV YES 19-5-1955
+8670 Veronica Stanton Germany 5 West_Nile_Fever YES 16-9-1994
+8371 Laci Blevins Germany 60 HIV NO
+7748 Karla Moses Germany 61 HIV YES 16-7-2019
+1047 Kaydence Stevens Germany 62 Ebola NO
+7527 Mohammad Phillips Germany 63 Ebola YES 21-1-2006
+4871 Soren Waters Germany 63 Spanish_Flu YES 5-1-1975
+6506 Taylor Daniels Germany 64 Covid-19 YES 13-12-1907
+1008 Jaylan Riley Germany 64 West_Nile_Fever NO
+5510 Eddie Guzman Germany 65 HIV YES 6-5-1939
+152 Louis Brock Germany 66 Ebola NO
+7341 Patrick Clay Germany 66 Spanish_Flu YES 13-7-2003
+118 Landon Evans Germany 67 HIV NO
+6676 Kolton Khan Germany 67 HIV YES 28-9-1985
+3776 Madelyn Franco Germany 67 West_Nile_Fever YES 10-4-1929
+1200 Martin Soto Germany 68 Ebola NO
+7064 Breanna Brewer Germany 69 Covid-19 YES 27-6-1959
+2899 Jamison West Germany 69 Spanish_Flu YES 11-5-1958
+545 Brayden Choi Germany 6 Ebola YES 3-10-1947
+879 Arielle Huang Germany 70 West_Nile_Fever NO
+6582 Lesly Butler Germany 71 Ebola NO
+5632 Amari Park Germany 71 Spanish_Flu NO
+4019 Gavin Frost Germany 72 HIV NO
+1234 Asa Hughes Germany 72 West_Nile_Fever NO
+5253 Rayne Davenport Germany 73 Ebola NO
+2677 Danny Gilbert Germany 73 Spanish_Flu NO
+9776 Abel Freeman Germany 74 Covid-19 NO
+5464 Felipe Shaffer Germany 74 HIV YES 20-12-1957
+7624 Tianna Lamb Germany 75 Ebola NO
+450 Allisson Mckee Germany 75 West_Nile_Fever YES 30-8-1959
+3857 Ray Mcclain Germany 76 HIV YES 18-9-1962
+3632 Lewis Rowe Germany 76 West_Nile_Fever NO
+3048 Dean Aguilar Germany 77 Covid-19 NO
+9817 Mayra Meadows Germany 77 Ebola YES 9-8-2002
+825 Cassie Perry Germany 77 West_Nile_Fever NO
+1828 Dulce Tyler Germany 78 HIV NO
+7004 Yadiel Woods Germany 78 West_Nile_Fever NO
+2409 Jennifer Estrada Germany 79 Ebola NO
+9571 Cyrus Kent Germany 79 Spanish_Flu YES 9-7-1971
+5142 Juliette Edwards Germany 7 HIV YES 13-1-1915
+8524 Abril Lyons Germany 80 Ebola NO
+7858 Wayne Brown Germany 80 Spanish_Flu NO
+5243 Ella Lowery Germany 81 Ebola YES 23-6-1931
+4155 Tia Patrick Germany 81 West_Nile_Fever YES 10-5-2002
+2885 Sherlyn Pittman Germany 82 HIV NO
+8277 Jack Zimmerman Germany 83 HIV NO
+9452 Krystal Hurst Germany 83 Spanish_Flu YES 25-6-1995
+467 Johan Kelley Germany 84 Ebola YES 27-10-1973
+8568 Emanuel Moran Germany 84 Spanish_Flu YES 17-7-1972
+7138 Leila Stout Germany 85 Spanish_Flu YES 7-1-1990
+6987 Cheyenne Spears Germany 86 Covid-19 NO
+8781 Augustus Vaughan Germany 86 West_Nile_Fever YES 6-5-1917
+2701 Sage Pruitt Germany 87 West_Nile_Fever YES 16-7-1983
+1195 Stephany Chen Germany 88 Spanish_Flu YES 10-5-1988
+337 Tyshawn Valencia Germany 89 Ebola NO
+1373 Hadley Simpson Germany 89 Spanish_Flu NO
+8056 Jessie Moyer Germany 8 Ebola YES 28-6-2018
+7251 Jaylyn Stephenson Germany 8 West_Nile_Fever YES 4-8-1978
+4081 Aniyah Cochran Germany 90 Ebola YES 10-2-2005
+8401 Keenan Rogers Germany 91 Covid-19 NO
+1645 Alex Reyes Germany 91 West_Nile_Fever YES 10-5-1957
+7710 Rory Bishop Germany 93 Ebola NO
+9200 Matteo Huynh Germany 93 West_Nile_Fever YES 13-9-1973
+807 Jayvion Moreno Germany 94 HIV YES 17-10-1931
+7273 Sanaa Walker Germany 95 Covid-19 NO
+2103 Juan Murray Germany 95 Ebola YES 14-4-1909
+6557 Savion Lowe Germany 96 Covid-19 NO
+830 Deangelo Holt Germany 96 HIV YES 4-1-2011
+3983 Talia Wood Germany 96 West_Nile_Fever YES 8-1-2010
+7516 Krista Simpson Germany 97 HIV YES 21-3-1903
+2866 Amani Santana Germany 98 Spanish_Flu YES 8-2-1922
+8603 Byron Ho Germany 99 Spanish_Flu NO
+4660 Phoenix Mcguire Germany 9 Covid-19 YES 22-3-2000
+6315 Yadiel Galvan Germany 9 HIV YES 24-1-1947

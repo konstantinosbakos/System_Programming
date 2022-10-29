@@ -1,0 +1,187 @@
+1217 Emilio Cantu France 100 Covid-19 YES 25-8-1941
+4194 Luz Lin France 100 West_Nile_Fever NO
+6106 Lyric Ferrell France 101 HIV NO
+7402 Case Bolton France 101 West_Nile_Fever NO
+9785 Arthur Dorsey France 102 Ebola NO
+8959 Adeline Medina France 103 Covid-19 NO
+1889 Nehemiah Burton France 103 Spanish_Flu YES 3-1-1981
+6559 Azaria Coffey France 104 HIV YES 28-2-1908
+141 Craig Austin France 104 West_Nile_Fever NO
+4975 Gordon Pratt France 105 Ebola YES 15-4-1901
+3953 Marlie Bowman France 105 West_Nile_Fever YES 9-1-1993
+1468 Crystal Murphy France 107 Covid-19 NO
+506 Jaeden Pennington France 107 Spanish_Flu NO
+4215 Dallas Melton France 108 HIV NO
+5414 Ellen Yang France 109 Ebola YES 4-9-1988
+7412 Adalyn Dorsey France 10 Ebola NO
+5454 Essence Branch France 110 Ebola NO
+758 Karla Rios France 110 HIV YES 30-9-1961
+2218 Emilio Clarke France 111 Ebola YES 11-10-1999
+8824 Krystal Wallace France 112 Covid-19 NO
+8972 Jillian Dixon France 112 HIV YES 19-10-1954
+8889 Dominique Krueger France 112 West_Nile_Fever NO
+4244 Jaidyn Doyle France 113 Ebola NO
+5959 Demarcus Cohen France 113 Spanish_Flu YES 19-9-1971
+7327 Dustin Strickland France 114 Spanish_Flu NO
+1049 Gia Dickerson France 115 HIV NO
+5976 Vivian Patton France 116 Covid-19 YES 9-8-1906
+3412 Kamren Cantrell France 116 Spanish_Flu NO
+7404 Chris Hanna France 117 Ebola NO
+4071 Tess Hutchinson France 117 Spanish_Flu NO
+8708 Kieran Olsen France 117 West_Nile_Fever YES 30-6-1974
+3894 Messiah Rivas France 118 HIV NO
+3755 Finley Reyes France 119 Covid-19 YES 16-2-2011
+3033 Ryan Branch France 119 Spanish_Flu YES 7-5-1987
+8199 Carl Cooke France 11 Ebola NO
+9208 Leandro Hicks France 11 West_Nile_Fever YES 15-7-1968
+1981 Jerimiah Copeland France 120 West_Nile_Fever NO
+8299 Norah Hunter France 12 Covid-19 YES 29-6-1911
+2 Hudson Edwards France 12 HIV NO
+6010 Roderick Boyer France 12 West_Nile_Fever YES 9-1-1992
+3343 Allen Fuller France 13 HIV YES 18-5-1936
+900 Heather Walters France 14 Covid-19 NO
+6777 Kolby Villanueva France 14 Spanish_Flu YES 17-10-1904
+4650 Finley Robbins France 15 Covid-19 YES 4-3-1943
+5282 Cadence Lambert France 16 Covid-19 YES 13-4-1935
+7205 Shelby Mooney France 16 HIV NO
+3022 Aliya Frazier France 16 West_Nile_Fever NO
+6003 Elsie Summers France 17 Spanish_Flu NO
+1394 Marcel Rodgers France 18 Ebola YES 21-6-1970
+5961 Kaylah Flynn France 19 Covid-19 NO
+9854 Leonard Wiley France 19 Ebola YES 8-1-1983
+6081 Jaslyn Hart France 19 West_Nile_Fever NO
+7579 Lorelai Henderson France 1 HIV NO
+5478 Ayaan Blackburn France 20 Covid-19 YES 12-5-1968
+4326 Troy Nielsen France 20 Spanish_Flu YES 2-5-1900
+7553 Camila Long France 21 Spanish_Flu NO
+871 Quinn Rubio France 22 HIV NO
+438 Russell Robinson France 23 HIV NO
+9837 Jaidyn Bentley France 23 Spanish_Flu YES 22-2-1901
+3498 Zachary Barr France 24 Covid-19 YES 25-10-1981
+8363 Aldo Kaufman France 24 HIV NO
+1127 Beckham Lyons France 25 Covid-19 NO
+6116 Junior Mercado France 26 Covid-19 YES 2-11-1940
+9711 Javier Osborn France 26 West_Nile_Fever YES 23-1-1961
+5885 Areli Figueroa France 27 HIV YES 21-5-2007
+9070 Kasen Ashley France 28 HIV NO
+9408 Jadyn Flores France 28 Spanish_Flu YES 5-1-1919
+7740 Alfredo Vaughn France 28 West_Nile_Fever YES 7-10-2007
+3916 Chad Shields France 29 HIV NO
+9256 Taliyah Figueroa France 2 HIV NO
+801 Emma Glover France 30 HIV NO
+1717 Glenn Ballard France 30 Spanish_Flu YES 22-12-1953
+457 Stanley Holder France 31 Ebola NO
+6306 Itzel Calderon France 31 Spanish_Flu NO
+5775 Elisa Serrano France 32 Covid-19 NO
+9842 Edward Malone France 33 Covid-19 YES 19-11-2014
+2649 Enzo Bruce France 33 Spanish_Flu NO
+9432 Ruben Hampton France 34 West_Nile_Fever NO
+31 Hudson Jacobson France 35 Ebola YES 24-12-1918
+7016 Kenny Cain France 35 HIV YES 20-9-2014
+875 Fletcher Mckay France 36 Ebola NO
+4655 Malcolm Montgomery France 36 Spanish_Flu YES 4-11-1920
+3334 Sierra Bentley France 37 HIV NO
+3906 Billy Carr France 38 Spanish_Flu YES 7-1-1909
+6152 Steve Obrien France 39 Covid-19 NO
+799 Carlie Mann France 39 HIV YES 7-1-1928
+4059 Davion Aguilar France 3 Ebola NO
+2759 Melissa Goodman France 40 Covid-19 NO
+6408 Jazlynn Mejia France 40 Ebola NO
+238 Caitlyn York France 41 Covid-19 YES 10-3-1930
+1050 Amare Edwards France 41 Spanish_Flu NO
+607 Jaylynn Cline France 41 West_Nile_Fever YES 15-2-1928
+4774 Belinda Rivera France 42 Covid-19 YES 2-8-1929
+2827 Trace Simon France 42 West_Nile_Fever NO
+297 Justus Elliott France 43 HIV NO
+746 Susan Stephens France 43 West_Nile_Fever NO
+294 Kaylah Carlson France 44 Ebola NO
+1607 Zachary Curry France 44 Spanish_Flu YES 18-5-2011
+8093 Finley Hale France 44 West_Nile_Fever NO
+4398 Bronson George France 45 Spanish_Flu NO
+7604 Skyler Parsons France 46 Covid-19 NO
+9145 Noelle Henson France 46 West_Nile_Fever YES 8-10-1922
+6225 Jaylen Finley France 47 HIV NO
+5735 Kamryn Mccarty France 47 West_Nile_Fever YES 12-8-1901
+7352 Michaela Terry France 48 West_Nile_Fever YES 12-9-2017
+3365 Caylee Sanford France 49 West_Nile_Fever NO
+6981 Tyrell Blake France 4 Ebola NO
+5428 Angelique Higgins France 4 Spanish_Flu YES 1-1-2005
+6921 Fernando Adams France 50 Spanish_Flu NO
+2263 Bryant Christian France 51 Ebola NO
+873 Jan Friedman France 51 West_Nile_Fever YES 9-2-1958
+2891 Conrad Garza France 52 Ebola YES 22-3-2000
+9554 Hayden Villa France 52 West_Nile_Fever YES 1-12-1913
+8346 Jaylen Richmond France 53 West_Nile_Fever NO
+1084 Hassan Haas France 54 West_Nile_Fever YES 26-2-1958
+9389 Aryana Holland France 55 Covid-19 YES 20-11-1987
+2060 Adeline Velasquez France 55 Spanish_Flu NO
+8149 Krish King France 56 Spanish_Flu YES 12-6-1997
+7799 Xavier Hanna France 56 West_Nile_Fever YES 15-4-1923
+9967 Claudia Hodge France 57 Ebola YES 2-3-1901
+695 Ellie Villa France 57 Spanish_Flu YES 19-1-1993
+8037 Alvaro Lang France 58 Covid-19 YES 11-6-2013
+7345 Kael Richmond France 58 HIV YES 9-2-1968
+6555 Diego Mcgee France 58 Spanish_Flu YES 5-2-2006
+6128 Mikaela Hobbs France 59 Ebola NO
+5872 Amirah Duncan France 59 Spanish_Flu YES 10-1-1900
+9417 Mya Hull France 5 Ebola NO
+2173 Luz Bernard France 60 Covid-19 NO
+1034 Rafael Archer France 60 HIV NO
+4787 Malik Rodriguez France 61 Ebola YES 26-6-1987
+639 Yasmine Brandt France 62 Ebola NO
+3819 Kellen Choi France 62 West_Nile_Fever NO
+3084 Vaughn Mosley France 63 Spanish_Flu NO
+8498 Josiah Frazier France 64 Covid-19 YES 1-8-1912
+3653 Mikayla Johns France 64 Spanish_Flu NO
+8620 Taylor Cherry France 66 West_Nile_Fever NO
+1114 Ryland Dunlap France 68 Covid-19 YES 20-12-1984
+2446 Teresa Dennis France 68 HIV YES 19-4-1939
+3924 Natasha Solomon France 69 Covid-19 NO
+7790 Griffin Morgan France 69 Spanish_Flu NO
+3165 Helena Ayers France 6 Ebola YES 27-11-1984
+2365 Jazmin Hester France 70 HIV NO
+8508 Lea Ruiz France 71 Covid-19 YES 25-7-1947
+3652 Adalyn Rich France 71 West_Nile_Fever NO
+554 Paisley Haney France 72 Ebola NO
+3520 Lana Hoover France 72 Spanish_Flu NO
+5042 Aron Burnett France 73 HIV YES 24-2-1931
+8703 Jayson Sweeney France 73 Spanish_Flu YES 2-5-1900
+7652 Kamora Good France 74 Spanish_Flu YES 1-11-1927
+9188 Broderick Abbott France 75 Covid-19 YES 30-6-2005
+6102 Rohan Richard France 75 Spanish_Flu YES 15-9-2003
+8128 Khalil Simon France 76 HIV NO
+1578 Myla Flynn France 76 West_Nile_Fever YES 3-2-1985
+2811 Alejandro Villegas France 77 Spanish_Flu NO
+9819 Brittany Leonard France 78 HIV NO
+1389 Ayaan Pearson France 79 Covid-19 NO
+2271 Gaven Cruz France 79 Spanish_Flu YES 25-4-1995
+8106 Lilian Allison France 7 HIV YES 28-4-1952
+1853 Coby Powell France 80 Covid-19 YES 4-5-1996
+7663 Alessandro Booker France 80 Spanish_Flu NO
+812 Alannah Mccarthy France 81 HIV YES 28-10-2005
+6920 Jaiden Meyer France 82 HIV NO
+6985 Francesca Moreno France 83 Covid-19 NO
+3706 Bobby Mullen France 83 Spanish_Flu YES 23-8-1907
+8790 Corinne Huffman France 84 Spanish_Flu NO
+1786 Peyton Contreras France 84 West_Nile_Fever YES 1-9-1919
+9981 Hector Chan France 85 West_Nile_Fever NO
+8296 Aryanna Pollard France 86 HIV YES 18-8-2001
+1445 Peter Burgess France 87 Covid-19 YES 29-9-2005
+0 Tyree Tanner France 87 HIV YES 26-8-1996
+3541 Reece Singleton France 88 Covid-19 YES 23-8-1941
+6254 Cecilia Lawrence France 88 Spanish_Flu YES 6-5-1984
+8533 Maeve Irwin France 8 Covid-19 YES 7-8-1966
+6157 Luca Montes France 8 West_Nile_Fever YES 27-11-2002
+666 Kaitlynn Mullen France 91 Covid-19 NO
+4014 Kathy Barnes France 92 Covid-19 NO
+2091 Luciano Young France 92 Spanish_Flu NO
+4249 Bruno Dodson France 93 Ebola NO
+1642 Savanna Robbins France 93 West_Nile_Fever YES 20-4-1932
+7343 Alejandra Underwood France 94 Ebola NO
+8678 Ava Bauer France 95 HIV NO
+586 Kolby Newton France 96 HIV YES 24-6-1943
+3459 Mercedes Callahan France 97 Covid-19 NO
+9110 Adrianna Barron France 97 West_Nile_Fever YES 26-7-1989
+1719 Janessa Rosales France 98 Spanish_Flu YES 26-4-1966
+1155 Jon Ortega France 99 Spanish_Flu NO
+1984 Breanna Sanchez France 9 Ebola YES 6-1-1933

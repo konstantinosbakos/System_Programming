@@ -1,0 +1,203 @@
+4007 Gerardo Nunez Denmark 100 Spanish_Flu YES 3-3-1938
+584 Rayna Waters Denmark 101 Ebola NO
+2435 Carlie Wu Denmark 101 Spanish_Flu NO
+5274 Frankie Landry Denmark 102 Covid-19 NO
+6957 Joy Jones Denmark 103 Covid-19 YES 19-11-1933
+5814 Madeleine Walls Denmark 103 Spanish_Flu NO
+8892 Paisley Pham Denmark 104 Ebola NO
+6085 Madelyn Wheeler Denmark 104 Spanish_Flu YES 29-4-1932
+5623 Yasmine Warner Denmark 105 Covid-19 YES 22-2-2003
+5849 Autumn Brandt Denmark 105 Ebola YES 10-2-1999
+8783 Denzel Ayala Denmark 105 HIV NO
+9876 Jaslyn Holder Denmark 105 Spanish_Flu YES 22-10-1908
+772 Dorian Woods Denmark 106 Spanish_Flu YES 9-6-1951
+7678 Blaze Morgan Denmark 107 Ebola NO
+740 Jalen Adams Denmark 107 West_Nile_Fever NO
+8659 Adam Harris Denmark 108 Covid-19 YES 15-10-2017
+4996 Brenna Zhang Denmark 108 HIV NO
+7289 Jayden Bowman Denmark 109 Covid-19 YES 7-8-1958
+8728 Giada Barker Denmark 109 Spanish_Flu NO
+473 Deven Pierce Denmark 10 Ebola NO
+4610 Liana Rojas Denmark 10 Spanish_Flu NO
+4313 Vanessa Mcgrath Denmark 110 Covid-19 YES 29-7-1989
+9381 Kelsey Greene Denmark 110 Spanish_Flu YES 28-2-2005
+2408 Elisa Huerta Denmark 111 West_Nile_Fever NO
+883 Dylan Waller Denmark 112 HIV NO
+3438 Landen Hayden Denmark 112 West_Nile_Fever NO
+4549 Cedric Chan Denmark 113 Spanish_Flu NO
+8801 Kenneth Schneider Denmark 114 HIV YES 12-9-1946
+8132 Cloe Baxter Denmark 115 Covid-19 NO
+5930 Serena Jacobs Denmark 115 HIV NO
+9888 Serenity Lee Denmark 116 HIV NO
+9187 Kylie Fernandez Denmark 116 Spanish_Flu YES 12-12-1991
+8469 Odin Robbins Denmark 117 Ebola YES 16-11-1974
+2942 Kaydence Zuniga Denmark 118 Covid-19 NO
+3765 Allan Berger Denmark 119 Covid-19 NO
+6475 Royce Andrews Denmark 119 Spanish_Flu NO
+6679 Aleena Henson Denmark 11 Spanish_Flu NO
+1837 Deshawn Nelson Denmark 120 HIV NO
+3951 Deacon Costa Denmark 12 Covid-19 YES 23-10-1952
+8492 Esperanza Fisher Denmark 12 Spanish_Flu NO
+7056 Lillian Reeves Denmark 13 Covid-19 NO
+4778 Jessica Mccoy Denmark 13 HIV YES 15-9-1917
+225 Laney Douglas Denmark 14 Covid-19 NO
+6673 Lawson Graves Denmark 14 Spanish_Flu YES 2-9-1909
+7366 Mariela Zamora Denmark 14 West_Nile_Fever YES 3-10-1986
+4877 Joy Huber Denmark 15 Ebola NO
+5337 Oswaldo Bauer Denmark 15 Spanish_Flu YES 21-11-2001
+8604 Finley Haas Denmark 16 Ebola YES 4-8-1902
+5259 Hazel Fuentes Denmark 17 Ebola YES 13-9-1906
+6387 Liana Gonzalez Denmark 17 Spanish_Flu NO
+4544 Ashlyn Schroeder Denmark 18 Covid-19 YES 20-4-1942
+1953 Maxwell Dominguez Denmark 18 Spanish_Flu YES 4-7-1961
+731 Jan Goodwin Denmark 18 West_Nile_Fever NO
+6504 Kamron Khan Denmark 19 Covid-19 NO
+2792 Tristin Vasquez Denmark 19 Spanish_Flu YES 17-12-1948
+3107 Patricia Clarke Denmark 20 Covid-19 YES 28-11-1964
+2461 Meadow Chung Denmark 20 West_Nile_Fever NO
+2291 Finnegan Walton Denmark 21 HIV YES 13-12-1989
+8751 Aron Luna Denmark 21 Spanish_Flu NO
+6428 Wade Nguyen Denmark 22 HIV YES 25-11-1936
+7247 Emmanuel Melendez Denmark 23 Ebola YES 20-2-1966
+8672 Josie Butler Denmark 23 West_Nile_Fever NO
+2783 Rhys Compton Denmark 24 Spanish_Flu NO
+3277 Reagan Marshall Denmark 24 West_Nile_Fever NO
+5537 Sarah Wells Denmark 25 West_Nile_Fever YES 21-3-2016
+5749 Cadence Graham Denmark 26 West_Nile_Fever NO
+5090 Sofia Hayes Denmark 27 HIV YES 21-6-1913
+1723 Tristan George Denmark 28 HIV NO
+6322 Regan Kelly Denmark 29 Ebola NO
+1662 Carmelo Chase Denmark 2 Covid-19 YES 17-4-1924
+444 Jasiah Jensen Denmark 30 Covid-19 NO
+1388 Saul Christian Denmark 30 West_Nile_Fever YES 20-6-1910
+6636 Deacon Zuniga Denmark 31 HIV YES 6-1-1955
+1450 Lorelai Wade Denmark 31 Spanish_Flu YES 4-12-1957
+4919 Dalia Walls Denmark 32 Spanish_Flu NO
+1893 Mayra Ellis Denmark 33 Covid-19 YES 2-4-1958
+8381 Susan Hester Denmark 33 HIV NO
+8859 Vincent George Denmark 33 Spanish_Flu NO
+139 Tori Obrien Denmark 34 Covid-19 YES 10-6-1962
+2441 Briley French Denmark 34 HIV NO
+6228 Cohen Knox Denmark 34 Spanish_Flu YES 20-2-1993
+6163 Daphne Wiley Denmark 35 Covid-19 YES 30-7-1972
+4540 Mylee Cummings Denmark 35 HIV NO
+4563 Paxton Hanna Denmark 36 Covid-19 NO
+5534 Makai Velez Denmark 36 HIV NO
+1290 Reyna Park Denmark 36 West_Nile_Fever YES 3-2-1967
+1564 Wesley Knight Denmark 37 HIV YES 12-4-1968
+1360 Tabitha Carroll Denmark 38 Covid-19 NO
+8768 Annie Dudley Denmark 38 Ebola NO
+3010 Davis Macias Denmark 39 HIV NO
+1111 Amelia Blackburn Denmark 3 Ebola NO
+7543 Mariam Mack Denmark 3 West_Nile_Fever YES 11-3-1924
+6695 Jagger Melton Denmark 40 HIV NO
+7794 Riley Marks Denmark 40 West_Nile_Fever YES 13-11-1907
+3026 Annalise Nixon Denmark 41 Ebola NO
+6314 Ashton Newman Denmark 41 Spanish_Flu YES 10-2-1985
+7152 Hayden Collins Denmark 42 HIV NO
+6628 Zachariah Li Denmark 42 West_Nile_Fever NO
+9994 Hunter Washington Denmark 43 HIV NO
+3934 Elvis Preston Denmark 43 West_Nile_Fever YES 1-9-1943
+4545 Leila Everett Denmark 45 West_Nile_Fever YES 24-7-1907
+3691 Larissa Patrick Denmark 46 HIV YES 17-6-2002
+2515 Emily Ho Denmark 47 Ebola NO
+4336 Frankie Poole Denmark 48 Covid-19 NO
+525 Nevaeh Snyder Denmark 48 HIV YES 2-9-1954
+1275 Mariela Hayden Denmark 49 Covid-19 YES 24-12-1934
+6785 Chasity Mcfarland Denmark 49 HIV YES 21-1-1945
+9745 Alivia Vargas Denmark 4 Ebola YES 1-3-2004
+8633 Braydon Leach Denmark 50 Covid-19 NO
+4652 Kimora Gibbs Denmark 50 HIV NO
+9253 Kyleigh Hodge Denmark 50 West_Nile_Fever NO
+698 Emilie Tran Denmark 52 Ebola NO
+8013 Audrina Leblanc Denmark 52 West_Nile_Fever NO
+7526 Paris Proctor Denmark 53 Covid-19 NO
+6159 Osvaldo Copeland Denmark 53 Spanish_Flu NO
+3441 Darius Summers Denmark 54 West_Nile_Fever YES 19-1-1971
+8150 Emilio Mccarty Denmark 55 HIV YES 17-5-1916
+300 Darius Clayton Denmark 55 West_Nile_Fever YES 7-1-1960
+1661 Cael Jefferson Denmark 56 Spanish_Flu NO
+5439 Adan Carroll Denmark 57 Covid-19 YES 20-12-1982
+2723 Abigayle Hampton Denmark 57 Spanish_Flu NO
+9025 Cale Glass Denmark 57 West_Nile_Fever NO
+4017 Peter Reynolds Denmark 58 Spanish_Flu YES 1-1-2002
+8770 Scott Heath Denmark 59 Covid-19 NO
+5069 Alyson Macias Denmark 59 West_Nile_Fever YES 7-2-2000
+3299 Freddy Atkinson Denmark 5 HIV NO
+9054 Trent Todd Denmark 5 Spanish_Flu YES 7-3-1925
+9075 Danny Howe Denmark 60 Spanish_Flu NO
+1079 Fernando Stafford Denmark 61 West_Nile_Fever NO
+4712 Celeste Bond Denmark 62 Ebola NO
+9159 Yurem Stone Denmark 62 West_Nile_Fever NO
+1307 Micaela Morgan Denmark 63 West_Nile_Fever YES 4-3-2002
+9564 Damian Henson Denmark 64 Ebola YES 17-8-1916
+1477 Keaton Arellano Denmark 65 Ebola NO
+5206 Seamus Lynn Denmark 65 Spanish_Flu NO
+3813 Lincoln Mcintosh Denmark 66 Ebola NO
+1971 Alexis Lester Denmark 66 Spanish_Flu YES 16-5-2019
+6430 Lorelei Dillon Denmark 67 Ebola YES 10-6-1999
+8967 Adonis Conley Denmark 68 Ebola YES 21-6-1938
+6222 Davian Stein Denmark 69 Ebola NO
+707 Diego Cox Denmark 69 Spanish_Flu YES 24-10-2018
+776 Lilly Hahn Denmark 6 Ebola NO
+4485 Joel Vang Denmark 6 HIV YES 8-1-2000
+419 Abbey Mcclain Denmark 70 Covid-19 NO
+17 Konnor Bowman Denmark 70 West_Nile_Fever NO
+2603 Oswaldo Cantrell Denmark 71 Spanish_Flu NO
+2274 Trystan Rodriguez Denmark 72 Covid-19 YES 14-11-1973
+3380 Jeremy Key Denmark 72 HIV YES 13-6-1985
+9989 Humberto Madden Denmark 72 West_Nile_Fever YES 20-12-1958
+9079 Warren Dixon Denmark 73 Ebola YES 27-12-1907
+5346 Kaya Vang Denmark 74 Covid-19 YES 21-8-2008
+6317 Irene Schroeder Denmark 74 HIV YES 15-2-1945
+9831 Lillian Sanford Denmark 75 Ebola NO
+5543 Lennon Ali Denmark 75 Spanish_Flu YES 24-12-1949
+6519 Leila Mckinney Denmark 76 Ebola YES 25-11-1918
+1850 Jamal Vasquez Denmark 77 Covid-19 YES 10-7-1907
+9243 Anaya Benjamin Denmark 77 HIV YES 4-3-1914
+2003 Ireland Carlson Denmark 78 Covid-19 NO
+218 Kareem Travis Denmark 78 West_Nile_Fever YES 28-12-2006
+376 Kayden Velasquez Denmark 79 HIV YES 11-3-1935
+7795 Caiden Hayden Denmark 79 West_Nile_Fever NO
+9085 Adison Lin Denmark 7 Ebola NO
+49 Karley Jackson Denmark 7 Spanish_Flu NO
+5276 Matias Mcguire Denmark 7 West_Nile_Fever YES 13-9-1901
+9563 Samson Sawyer Denmark 80 Ebola NO
+6854 Zaid Baxter Denmark 80 Spanish_Flu NO
+573 Isabela Ramos Denmark 80 West_Nile_Fever YES 18-10-1933
+3850 Dominik Larson Denmark 81 West_Nile_Fever YES 18-1-1952
+8292 Roberto Diaz Denmark 82 HIV NO
+7562 Lilly Conway Denmark 82 West_Nile_Fever NO
+9230 Karson Klein Denmark 83 Covid-19 YES 20-12-1939
+3656 Mila Mccarthy Denmark 83 HIV NO
+2117 Anthony Mays Denmark 83 West_Nile_Fever YES 12-2-1908
+2566 Jada Ellison Denmark 84 HIV YES 18-7-1978
+8669 Lola Rosales Denmark 85 HIV NO
+5982 Claudia Gray Denmark 86 Covid-19 NO
+2748 Piper Stephens Denmark 86 Spanish_Flu YES 18-7-1972
+6721 Mia Sims Denmark 87 Ebola YES 19-2-1934
+6805 Eleanor Walls Denmark 88 HIV NO
+9339 Rubi George Denmark 88 West_Nile_Fever YES 16-4-1907
+787 Clarissa Robbins Denmark 89 Covid-19 YES 22-1-1906
+5748 Alden Beard Denmark 89 Spanish_Flu NO
+5051 Kaitlin Snow Denmark 8 Ebola YES 27-3-1989
+9759 Cassius Carter Denmark 8 HIV NO
+3837 Elijah Peters Denmark 8 West_Nile_Fever YES 2-12-1983
+8917 Valery Whitehead Denmark 90 Spanish_Flu NO
+5383 Lindsey Shepherd Denmark 91 Covid-19 NO
+2781 Emmalee Mccarthy Denmark 91 West_Nile_Fever NO
+1411 Raina Madden Denmark 92 Ebola NO
+6353 Everett Velasquez Denmark 92 West_Nile_Fever NO
+3 Calvin Mccarthy Denmark 94 Covid-19 NO
+6259 Mara George Denmark 94 HIV NO
+9310 Genevieve Randall Denmark 95 Covid-19 NO
+2133 Aliana Rice Denmark 95 HIV YES 15-1-2016
+2045 Kaitlyn Barajas Denmark 96 Ebola NO
+8611 Kiana Roberts Denmark 96 HIV NO
+4893 Avery Baker Denmark 96 West_Nile_Fever NO
+2865 Alison Rasmussen Denmark 97 HIV NO
+2372 Mike Guzman Denmark 97 West_Nile_Fever NO
+2994 Camryn Hayden Denmark 98 HIV YES 11-5-1980
+8676 Nicholas Graham Denmark 99 Covid-19 YES 27-6-1925
+619 Terrance Kidd Denmark 9 Ebola NO
+4705 Zane Campos Denmark 9 Spanish_Flu NO

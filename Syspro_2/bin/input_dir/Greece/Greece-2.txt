@@ -1,0 +1,211 @@
+1555 Rory Tate Greece 100 HIV NO
+7536 Kayley Weiss Greece 100 Spanish_Flu NO
+9920 Brenna Bell Greece 101 Ebola NO
+6068 London Michael Greece 101 West_Nile_Fever NO
+832 Jaycee Sharp Greece 102 Covid-19 YES 9-5-2001
+5004 Aden Johns Greece 102 Spanish_Flu NO
+9293 Lauren Osborne Greece 103 Covid-19 NO
+8042 Willow Holloway Greece 103 HIV YES 15-3-1980
+8876 Christian Leon Greece 104 Covid-19 NO
+6762 Martin Carter Greece 104 HIV NO
+2280 Rosemary Reynolds Greece 105 Spanish_Flu NO
+503 Blaze Wolf Greece 106 Covid-19 YES 3-12-2000
+9787 Kendall Burnett Greece 106 West_Nile_Fever YES 25-4-1959
+5921 Erica Gross Greece 107 Ebola YES 1-6-1916
+6551 Brooklynn Ferrell Greece 107 HIV YES 8-2-2014
+5715 Rose Knapp Greece 107 West_Nile_Fever YES 26-11-1946
+2398 Mariela Dawson Greece 108 West_Nile_Fever YES 14-12-1906
+3243 Johan Hanson Greece 109 HIV NO
+4132 Rihanna Meza Greece 109 Spanish_Flu NO
+2093 Donald Higgins Greece 10 HIV YES 22-4-2010
+8731 Mariela Sosa Greece 10 Spanish_Flu YES 7-3-1961
+2266 Finn Obrien Greece 110 Covid-19 NO
+3735 Yoselin Montes Greece 110 Spanish_Flu YES 12-12-2012
+8366 Jenna Houston Greece 111 Covid-19 NO
+7759 Kaleigh Valencia Greece 111 HIV NO
+2205 Diamond Silva Greece 111 West_Nile_Fever NO
+7651 Mateo Huerta Greece 112 HIV NO
+4609 Byron Garrett Greece 112 West_Nile_Fever YES 30-12-2007
+5951 Noemi Farmer Greece 113 Spanish_Flu NO
+7558 Leonardo Miranda Greece 113 West_Nile_Fever YES 19-5-1972
+6944 Arabella Bowman Greece 114 HIV YES 17-11-1989
+359 Jaylin Macias Greece 115 Ebola NO
+4951 Jazmin Prince Greece 115 Spanish_Flu NO
+4047 Marley Compton Greece 115 West_Nile_Fever YES 12-12-1967
+6199 Shane Porter Greece 116 Spanish_Flu YES 24-6-1959
+3181 Van Wiley Greece 116 West_Nile_Fever YES 4-7-1959
+7183 Steve Bentley Greece 117 Spanish_Flu NO
+9164 Orlando Sawyer Greece 118 Covid-19 NO
+2530 Cohen Yates Greece 118 West_Nile_Fever NO
+4384 Bryce Compton Greece 119 HIV YES 27-3-1972
+196 Veronica Santana Greece 119 West_Nile_Fever YES 24-5-1989
+5933 Aliyah Thompson Greece 11 HIV NO
+9685 Alisson Watkins Greece 120 Ebola NO
+8361 Ruben Simpson Greece 120 West_Nile_Fever NO
+1527 Ainsley Tucker Greece 12 HIV YES 24-5-2004
+5786 Alexis Riley Greece 13 Covid-19 NO
+6026 Mason Shaffer Greece 13 HIV YES 8-7-1901
+1815 Seth Jones Greece 14 Covid-19 YES 15-2-1967
+26 Greta Benton Greece 14 Spanish_Flu YES 18-12-1996
+1380 Jayden Ramos Greece 15 Ebola YES 5-1-1956
+6169 Kaylah Rasmussen Greece 16 Covid-19 YES 3-2-2011
+7370 Mariah Wade Greece 16 HIV NO
+6526 Amya Lucas Greece 16 West_Nile_Fever YES 26-3-1985
+9600 Adelaide Ferguson Greece 17 West_Nile_Fever NO
+9570 Bryan Lowe Greece 18 HIV YES 6-1-1987
+2666 Abel Weber Greece 18 West_Nile_Fever YES 7-9-1957
+2983 Maryjane Brewer Greece 19 Ebola YES 22-9-1926
+5684 Sanaa Maynard Greece 19 HIV YES 23-4-1921
+5902 Franklin Fields Greece 19 Spanish_Flu YES 24-6-1908
+5361 Skylar West Greece 1 Ebola YES 17-5-1918
+7983 Kinley Chambers Greece 1 Spanish_Flu NO
+7 Molly Richard Greece 1 West_Nile_Fever NO
+1253 Kymani Page Greece 20 Covid-19 YES 27-6-1955
+5073 Kareem Kidd Greece 21 Ebola YES 10-7-1983
+3547 Kolby Charles Greece 21 West_Nile_Fever NO
+9915 Eli Bauer Greece 22 Covid-19 YES 8-11-1962
+1612 Issac Pena Greece 22 HIV NO
+8090 Kailee Hays Greece 22 West_Nile_Fever NO
+1693 Andrew Gates Greece 23 Spanish_Flu YES 8-9-1926
+8812 Valery Strong Greece 24 Ebola YES 11-5-1995
+579 Deegan Figueroa Greece 25 HIV NO
+6579 Sarah Beard Greece 25 West_Nile_Fever NO
+4392 Julia Romero Greece 26 Covid-19 NO
+1921 Quinton Cooper Greece 26 West_Nile_Fever NO
+7485 Rene Prince Greece 27 Spanish_Flu NO
+1236 Marshall Peters Greece 28 Covid-19 NO
+8026 Rhys Lambert Greece 28 Ebola YES 29-1-1966
+1390 Prince Farley Greece 28 West_Nile_Fever YES 17-8-2003
+5923 Ray Wyatt Greece 29 Ebola NO
+1154 Amanda Case Greece 2 Covid-19 YES 20-4-1935
+1700 Jean Johns Greece 2 Spanish_Flu NO
+8091 Tiana Meza Greece 30 Spanish_Flu NO
+920 Bridget Duncan Greece 31 Ebola NO
+3591 Yahir Wilkinson Greece 31 Spanish_Flu NO
+2341 Dillan Ponce Greece 32 Covid-19 YES 7-1-1912
+5760 Kylee Shaw Greece 32 West_Nile_Fever NO
+8727 Macy Avila Greece 33 Ebola YES 2-6-1937
+7175 Brock Montgomery Greece 34 Ebola NO
+8773 Sarai Montgomery Greece 34 Spanish_Flu YES 5-7-1978
+8316 Carly Woods Greece 35 Ebola YES 22-7-1996
+6380 Madilyn Lloyd Greece 35 West_Nile_Fever YES 22-3-1905
+5104 Mia Bates Greece 36 HIV YES 22-12-1951
+4217 Beatrice Flowers Greece 37 Ebola YES 1-2-1984
+6960 Robert Bryant Greece 37 Spanish_Flu NO
+2710 Terrence Norris Greece 38 HIV YES 21-9-2001
+2941 Leroy Chung Greece 39 HIV NO
+1268 Denisse Strickland Greece 39 West_Nile_Fever NO
+7232 Darius Guzman Greece 3 Covid-19 NO
+7519 Gage Roman Greece 3 HIV NO
+5759 Leyla Donovan Greece 3 West_Nile_Fever NO
+3938 Kayden Hurst Greece 40 HIV NO
+7914 Porter Perez Greece 40 Spanish_Flu NO
+8001 Jocelyn Bowers Greece 41 Covid-19 YES 11-4-1926
+5658 Esther Richardson Greece 41 HIV NO
+7911 Cora Sims Greece 41 West_Nile_Fever YES 2-11-1949
+4269 Shawn Stephens Greece 42 Spanish_Flu NO
+3337 Kaylah Holland Greece 42 Spanish_Flu YES 6-6-1984
+4189 Brooklynn Henson Greece 43 HIV YES 10-2-1950
+2340 Megan Deleon Greece 44 Ebola NO
+4108 Jacquelyn Joseph Greece 44 Spanish_Flu YES 3-4-2002
+7715 Anya Gay Greece 45 Ebola YES 12-10-1981
+9801 Sterling Melendez Greece 45 Spanish_Flu YES 26-7-1937
+345 Dylan Harris Greece 46 Ebola YES 18-4-1940
+3166 Craig Burton Greece 47 HIV NO
+1156 Leticia Waller Greece 47 West_Nile_Fever YES 15-10-1924
+3247 Angeline Stone Greece 48 HIV YES 22-12-1986
+2686 Deacon Woods Greece 48 West_Nile_Fever NO
+6392 Kathy Escobar Greece 49 HIV NO
+526 Deandre Wilkins Greece 4 Covid-19 YES 27-11-1904
+8499 Broderick Reed Greece 4 Spanish_Flu NO
+7743 Keaton Dalton Greece 50 Spanish_Flu NO
+7440 Donte Pope Greece 51 Ebola YES 14-2-1928
+3353 Addison Mayo Greece 51 HIV YES 1-10-1913
+8608 Adrianna Stevenson Greece 52 Ebola YES 26-8-1904
+6639 Damian Meadows Greece 53 HIV NO
+5860 Nelson Rangel Greece 53 West_Nile_Fever YES 9-6-2014
+548 Kenyon Mitchell Greece 54 West_Nile_Fever NO
+8077 Payten Sanchez Greece 55 Ebola YES 19-9-1995
+8123 Benjamin Miranda Greece 56 Covid-19 NO
+6879 Alana David Greece 56 Spanish_Flu YES 15-4-2002
+9820 Ayanna Hines Greece 56 West_Nile_Fever NO
+2443 Elaina Elliott Greece 57 Spanish_Flu NO
+553 Seamus Hoover Greece 58 Covid-19 NO
+5936 Maximus Simon Greece 58 West_Nile_Fever YES 3-7-1979
+4009 Stanley Irwin Greece 59 HIV NO
+5934 Beatrice Vincent Greece 59 West_Nile_Fever NO
+5981 Colt Perez Greece 5 Covid-19 NO
+4013 Atticus Miranda Greece 5 Spanish_Flu NO
+2469 Malakai Delgado Greece 60 Covid-19 YES 16-8-1957
+7797 Kenna Montgomery Greece 60 Spanish_Flu NO
+205 Jaida Phillips Greece 61 Ebola NO
+1847 Brenton Gonzalez Greece 61 Spanish_Flu NO
+9871 Nevaeh Brady Greece 62 Ebola YES 13-2-1984
+8789 Khloe Hurley Greece 62 Spanish_Flu NO
+3647 Mariam Barnes Greece 63 Ebola NO
+7783 Brent Steele Greece 63 West_Nile_Fever YES 30-10-1994
+1099 Sage Ritter Greece 64 HIV YES 24-5-2012
+510 Andres Conway Greece 64 Spanish_Flu YES 1-11-2012
+8237 London Dennis Greece 65 HIV NO
+5088 Elisha Yu Greece 66 HIV YES 19-4-2009
+324 Cruz Mcfarland Greece 66 West_Nile_Fever NO
+4957 Tara Barnett Greece 67 West_Nile_Fever YES 17-1-2009
+8009 Raegan Richard Greece 68 Spanish_Flu NO
+5541 Lucian Vasquez Greece 69 HIV YES 24-8-1967
+1358 Cierra Maxwell Greece 6 Covid-19 YES 13-4-1943
+7186 Marquis Hunter Greece 6 Spanish_Flu YES 4-5-1989
+6664 Princess House Greece 70 Ebola YES 27-11-2017
+2180 Jace Roman Greece 70 West_Nile_Fever YES 27-2-2001
+972 Cailyn Huynh Greece 71 West_Nile_Fever NO
+3057 Armando Schmidt Greece 72 HIV YES 4-1-1997
+6909 Branden Glenn Greece 73 Covid-19 NO
+7948 Madyson Mills Greece 73 Ebola YES 30-2-1962
+2596 Maximo Chandler Greece 73 Spanish_Flu YES 29-7-2001
+1574 Moriah Richard Greece 74 HIV NO
+5939 Ashly Giles Greece 74 West_Nile_Fever YES 25-3-2006
+7219 Fatima Holmes Greece 75 Ebola YES 7-10-1967
+5977 Lennon Sullivan Greece 75 West_Nile_Fever NO
+7336 Jarrett George Greece 76 Covid-19 YES 13-6-1964
+3800 Rowan Mercer Greece 77 Covid-19 NO
+9235 Leslie Khan Greece 77 Spanish_Flu NO
+8561 Caitlin Spears Greece 78 HIV YES 25-5-1996
+9246 Jesse Dunn Greece 79 Covid-19 NO
+9511 Alberto Mccann Greece 79 West_Nile_Fever NO
+2568 Maggie Bowers Greece 80 Covid-19 YES 10-6-1907
+4960 Princess Li Greece 80 HIV NO
+944 Trevin Gallegos Greece 80 Spanish_Flu NO
+8219 Amara Blanchard Greece 81 Covid-19 NO
+8275 Saul Gay Greece 81 Ebola YES 1-12-1943
+6531 Rose Ramsey Greece 81 West_Nile_Fever YES 26-9-1929
+6211 Khalil Carson Greece 82 Spanish_Flu NO
+4050 Saige Daugherty Greece 83 HIV NO
+1556 Malia Summers Greece 83 Spanish_Flu YES 16-9-1925
+8456 Cora Mcconnell Greece 84 Covid-19 NO
+8138 Maximo Cox Greece 84 Ebola YES 13-8-1945
+7733 Felix Bean Greece 84 Spanish_Flu NO
+2722 Francesca Villanueva Greece 85 Ebola NO
+9046 Jerimiah Sloan Greece 85 Spanish_Flu NO
+9674 Aditya Sloan Greece 86 Ebola NO
+7677 Jasiah Curtis Greece 86 HIV YES 27-4-2012
+2620 Alonzo Cherry Greece 87 Covid-19 YES 2-1-1901
+3969 Moriah Christian Greece 87 HIV YES 29-11-1970
+1377 Leanna Adkins Greece 88 Covid-19 NO
+8023 Harold Roth Greece 88 Ebola YES 24-1-1949
+1877 Princess Turner Greece 88 West_Nile_Fever YES 4-5-1960
+9760 Malia Small Greece 89 Spanish_Flu NO
+1712 Lucian Summers Greece 8 Spanish_Flu NO
+5335 Jane Santiago Greece 90 Ebola YES 10-12-1990
+5115 Mylee White Greece 91 Ebola YES 19-1-1951
+1347 Heath Dodson Greece 91 West_Nile_Fever NO
+1874 Alexzander Wilkinson Greece 92 West_Nile_Fever NO
+705 Gilbert Carr Greece 94 Ebola YES 13-8-1919
+1146 Dustin Sawyer Greece 94 West_Nile_Fever NO
+222 Georgia Reynolds Greece 94 West_Nile_Fever YES 7-7-1917
+5650 Greta Woodward Greece 95 Spanish_Flu NO
+374 Lance Carter Greece 96 Ebola NO
+919 Sawyer Skinner Greece 96 West_Nile_Fever NO
+4584 Emilia Lamb Greece 98 Covid-19 NO
+8840 Lilly Oconnell Greece 98 HIV NO
+3986 Kolten Williamson Greece 99 Ebola NO
+3763 Deja Branch Greece 99 West_Nile_Fever YES 3-3-1958
+2576 Riley Ramos Greece 9 HIV YES 1-12-1974

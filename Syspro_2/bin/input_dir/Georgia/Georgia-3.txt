@@ -1,0 +1,204 @@
+3989 Enrique Rasmussen Georgia 100 Ebola NO
+8976 Jaquan Malone Georgia 100 Ebola YES 27-11-1997
+7896 Steve Strickland Georgia 101 Ebola NO
+6304 Draven Andersen Georgia 102 Covid-19 YES 20-3-2000
+45 Aileen Brandt Georgia 102 West_Nile_Fever YES 8-8-1946
+1209 Bradyn Wolf Georgia 103 Spanish_Flu NO
+2331 Katelynn Petty Georgia 104 HIV YES 19-1-1997
+2871 Isai Blevins Georgia 104 West_Nile_Fever YES 3-9-1925
+8630 Yasmine Hinton Georgia 105 Ebola YES 7-6-1945
+3890 Giovanny Fry Georgia 106 Covid-19 NO
+3875 Isabelle Donovan Georgia 106 Ebola YES 22-2-2003
+5668 Mariah Patterson Georgia 107 HIV YES 21-4-2004
+5738 Scarlett Dalton Georgia 108 Ebola NO
+8303 Parker Choi Georgia 108 West_Nile_Fever YES 26-6-1952
+4801 Beatrice Clarke Georgia 109 Ebola NO
+9590 Beau Stuart Georgia 109 Spanish_Flu YES 20-10-2003
+317 Miracle Mcgee Georgia 10 Spanish_Flu YES 1-3-1905
+9048 Isaias Hendricks Georgia 110 Covid-19 NO
+8918 Van Bond Georgia 110 Spanish_Flu NO
+6416 Haleigh Cordova Georgia 111 Covid-19 NO
+2879 Gaven Gibson Georgia 111 Spanish_Flu NO
+4658 Chance Blair Georgia 112 Ebola NO
+4608 Dixie Mcneil Georgia 113 Covid-19 NO
+4924 Haleigh Graves Georgia 113 Ebola YES 20-4-1953
+5617 Evangeline Collins Georgia 114 Ebola YES 1-4-1994
+1724 Adeline Juarez Georgia 114 Spanish_Flu NO
+2797 Eden Bass Georgia 114 West_Nile_Fever YES 27-2-1991
+7307 Mathew Chung Georgia 115 Ebola NO
+2432 Stanley Conway Georgia 115 Spanish_Flu NO
+8458 Mohammed Alexander Georgia 116 Covid-19 YES 9-6-1949
+7348 Aarav Perry Georgia 116 Spanish_Flu YES 15-2-1974
+3001 Jude Nunez Georgia 117 Covid-19 YES 26-10-1926
+4553 Gracie Foster Georgia 117 Spanish_Flu NO
+403 Lillie Hampton Georgia 118 Covid-19 YES 17-10-1986
+7954 Alfred Roy Georgia 119 Covid-19 NO
+9061 Rex Carlson Georgia 11 Covid-19 NO
+3751 Kimberly Garner Georgia 120 Covid-19 NO
+9248 Saige Harris Georgia 120 HIV YES 19-7-1928
+3266 Eileen Finley Georgia 12 Ebola YES 25-4-1902
+402 Lilia Baker Georgia 13 Ebola NO
+8719 Gauge Chung Georgia 13 West_Nile_Fever NO
+6793 Dalia Everett Georgia 14 Ebola NO
+5528 Yoselin Stanley Georgia 15 Covid-19 NO
+4448 Jaden Compton Georgia 15 Spanish_Flu NO
+3457 Santos English Georgia 16 Covid-19 YES 25-9-1960
+6278 Kathleen Haas Georgia 17 Ebola YES 11-7-1932
+6941 Jamir Webb Georgia 17 Spanish_Flu YES 2-6-1943
+2933 Odin Riley Georgia 18 Ebola NO
+380 Belen Walter Georgia 18 HIV NO
+7131 Cason Harrington Georgia 18 West_Nile_Fever NO
+6741 Karlie Underwood Georgia 19 Ebola NO
+2669 Heaven Arroyo Georgia 19 Spanish_Flu NO
+736 Corinne Carr Georgia 1 West_Nile_Fever YES 14-9-1928
+5332 Ronin Gibson Georgia 20 West_Nile_Fever NO
+2607 Lila Dunlap Georgia 21 HIV NO
+8063 Alani Solis Georgia 21 Spanish_Flu NO
+8007 Raegan Fletcher Georgia 21 West_Nile_Fever YES 1-8-2015
+3159 Angelica Shea Georgia 22 HIV NO
+1192 Mikayla George Georgia 23 Covid-19 NO
+906 Paxton Macdonald Georgia 23 Spanish_Flu NO
+1918 Dayanara Diaz Georgia 24 Covid-19 YES 2-2-1947
+1401 Kenya Morrison Georgia 24 West_Nile_Fever YES 16-4-1936
+8177 Immanuel Zamora Georgia 25 HIV NO
+5233 Alyvia Poole Georgia 26 Covid-19 NO
+4969 Kinley Stephenson Georgia 26 HIV YES 7-7-1982
+945 Karlee Frazier Georgia 26 West_Nile_Fever YES 8-3-1969
+6795 Deangelo Nguyen Georgia 27 Ebola YES 17-10-1932
+5261 Bronson Turner Georgia 27 West_Nile_Fever YES 2-2-1940
+219 Hunter Kennedy Georgia 28 Spanish_Flu NO
+5272 Pedro Cain Georgia 29 Spanish_Flu YES 22-10-1968
+6550 Nathaniel Velazquez Georgia 2 Spanish_Flu NO
+1507 Isabel Faulkner Georgia 30 Ebola YES 23-3-1921
+1193 Marely Lara Georgia 31 Covid-19 NO
+4025 Jovany Larsen Georgia 31 Spanish_Flu YES 13-11-1959
+489 Taryn Crosby Georgia 32 Covid-19 YES 18-1-1972
+9720 Ty Chapman Georgia 32 Ebola YES 5-3-1941
+7521 Alma Lang Georgia 33 Covid-19 YES 20-8-1902
+1488 Grant Sweeney Georgia 33 West_Nile_Fever YES 24-5-1987
+136 Holden Wolfe Georgia 34 Ebola NO
+6952 Davis Mann Georgia 34 HIV YES 21-3-1901
+391 Kyle Guzman Georgia 34 West_Nile_Fever NO
+9165 Makhi Mclaughlin Georgia 35 HIV YES 12-9-1925
+116 Gabrielle Day Georgia 35 West_Nile_Fever NO
+5899 Eden Acevedo Georgia 36 Ebola YES 7-2-1973
+7533 Jon Best Georgia 36 HIV YES 6-10-1934
+7576 Journey Blackwell Georgia 36 Spanish_Flu YES 22-8-1977
+7523 Kristen Perez Georgia 37 HIV NO
+4076 Aditya Rodgers Georgia 38 Covid-19 NO
+3470 Karsyn Mason Georgia 38 Spanish_Flu NO
+9537 Johnathan Norton Georgia 38 West_Nile_Fever NO
+4456 Dax Strickland Georgia 39 Spanish_Flu NO
+3388 Noelle Powers Georgia 3 Covid-19 YES 4-1-1929
+5594 Marie Pugh Georgia 40 Covid-19 NO
+1834 Ernest Davis Georgia 40 HIV NO
+4252 Jabari Schaefer Georgia 40 West_Nile_Fever YES 5-10-2013
+9367 Jerimiah Yoder Georgia 41 HIV YES 30-8-1920
+8519 Ellie Clayton Georgia 42 Covid-19 YES 10-4-1919
+9741 Myah Michael Georgia 42 HIV YES 14-3-1997
+4140 Freddy Calderon Georgia 42 West_Nile_Fever NO
+4452 Tyler Paul Georgia 43 West_Nile_Fever NO
+1285 Jayla Acevedo Georgia 44 Covid-19 YES 27-4-1962
+9281 Mason Christensen Georgia 44 Ebola YES 17-12-1924
+872 Brennan Matthews Georgia 44 West_Nile_Fever YES 20-7-1923
+813 Frank Hoover Georgia 45 Spanish_Flu YES 18-3-1998
+8170 Frida Ellison Georgia 46 Covid-19 YES 27-3-1995
+4621 Lucia Maddox Georgia 47 Covid-19 NO
+2070 Veronica Mccann Georgia 47 HIV YES 7-3-1937
+3574 Dominick Glover Georgia 48 HIV YES 29-10-1969
+3879 Raegan Ferguson Georgia 48 West_Nile_Fever YES 4-11-2014
+2537 Darren Perez Georgia 49 HIV YES 22-10-1984
+7644 Salvador Cameron Georgia 4 Covid-19 YES 5-4-1970
+149 Salma Jones Georgia 4 West_Nile_Fever NO
+3397 Melanie Henry Georgia 4 West_Nile_Fever YES 28-10-1935
+3880 Larry Vance Georgia 50 Covid-19 YES 6-6-1990
+5601 Stacy Spencer Georgia 50 West_Nile_Fever NO
+7079 Armando Choi Georgia 51 Covid-19 YES 16-9-1918
+9363 Bernard Peck Georgia 51 Spanish_Flu NO
+5177 Vance Frost Georgia 52 Covid-19 YES 30-3-1980
+4955 Greta Jefferson Georgia 52 West_Nile_Fever NO
+6406 Taryn Mora Georgia 53 Covid-19 YES 11-8-1959
+487 Noe Mccarty Georgia 53 Spanish_Flu NO
+1956 Case Mccullough Georgia 54 Ebola YES 27-1-1986
+2505 Annabel Zuniga Georgia 54 Spanish_Flu YES 15-6-1986
+2308 Kale Mccoy Georgia 55 HIV YES 26-5-1993
+5556 Peyton Hutchinson Georgia 56 Ebola NO
+4763 Jadyn Ferguson Georgia 57 Covid-19 YES 9-9-1904
+2924 Valerie Floyd Georgia 58 Covid-19 YES 12-6-1923
+3524 Brynlee Hardin Georgia 58 Ebola YES 7-8-2000
+1470 Beckett Parsons Georgia 58 West_Nile_Fever YES 27-7-1946
+6946 Zechariah Ray Georgia 59 West_Nile_Fever NO
+3450 Fabian Irwin Georgia 5 HIV YES 13-4-1904
+3198 Jay Bartlett Georgia 60 Spanish_Flu YES 1-4-1948
+4469 Ahmed Huang Georgia 61 HIV NO
+9991 Viviana Shah Georgia 61 Spanish_Flu NO
+5025 Alessandro Holden Georgia 62 Ebola NO
+9632 Ethan Welch Georgia 62 Spanish_Flu NO
+5219 Ryker Luna Georgia 63 Ebola NO
+9951 Kyra Krause Georgia 64 Covid-19 YES 30-8-1939
+3066 Jasiah Macias Georgia 64 HIV YES 28-5-1926
+6031 Abram Farley Georgia 65 HIV NO
+8274 Keagan Harrison Georgia 65 Spanish_Flu YES 29-2-1936
+3606 Kenya Willis Georgia 66 HIV YES 19-6-2008
+5023 Tia Garrison Georgia 66 West_Nile_Fever YES 7-2-1903
+7150 Pablo Cline Georgia 67 Spanish_Flu NO
+4648 Mckayla Schneider Georgia 67 West_Nile_Fever NO
+5690 Abbey Dennis Georgia 68 Covid-19 YES 1-2-1936
+1910 Marley Gallegos Georgia 68 Spanish_Flu NO
+4293 Efrain Beltran Georgia 69 Covid-19 NO
+8438 Adan Haynes Georgia 69 Ebola YES 8-6-1938
+2982 Cassius Mcconnell Georgia 69 West_Nile_Fever NO
+4055 Lena Andrews Georgia 6 Covid-19 YES 8-3-1993
+876 Skyler Mercer Georgia 6 Spanish_Flu NO
+2026 Jamiya Cameron Georgia 70 Covid-19 NO
+5287 Branden Grimes Georgia 70 West_Nile_Fever NO
+6581 Cecelia Orr Georgia 71 Ebola NO
+4077 Crystal Stevenson Georgia 71 West_Nile_Fever YES 28-7-1999
+8454 Talon Rich Georgia 72 HIV YES 20-11-2007
+2198 Brody Rogers Georgia 73 Ebola NO
+8268 Jaslene Rios Georgia 73 Spanish_Flu YES 12-2-1961
+4654 Beatrice Day Georgia 74 Ebola YES 5-5-2000
+1288 Damari King Georgia 74 Spanish_Flu YES 22-7-1945
+8572 Warren Archer Georgia 75 Ebola NO
+2463 Roy Martin Georgia 75 Spanish_Flu YES 20-5-1910
+6307 Felipe Tapia Georgia 76 Spanish_Flu YES 23-11-1998
+1988 Kinley Graham Georgia 77 Ebola YES 28-8-2007
+3954 Adison Ashley Georgia 77 Spanish_Flu YES 1-9-1927
+27 Elisabeth Brennan Georgia 78 Covid-19 YES 10-8-1993
+7103 Dayanara Newton Georgia 79 Covid-19 NO
+7188 Reese Gordon Georgia 79 Ebola YES 21-6-2009
+3400 Miracle Roberts Georgia 7 Covid-19 NO
+946 Juan Douglas Georgia 80 HIV YES 9-12-2010
+2570 Harrison Stokes Georgia 81 Covid-19 YES 16-5-1948
+4192 Harry Wolf Georgia 81 Spanish_Flu YES 12-2-1954
+9434 Zack Stuart Georgia 82 Ebola YES 17-8-1978
+2875 Simone Roman Georgia 82 Spanish_Flu NO
+7323 Juan Miranda Georgia 83 Covid-19 NO
+4428 Liam Jenkins Georgia 83 Spanish_Flu YES 12-5-1945
+6046 Skyler Lambert Georgia 84 Spanish_Flu YES 1-5-2002
+1301 Audrey Kline Georgia 85 Covid-19 YES 19-8-2011
+7211 Trey Blair Georgia 85 Ebola YES 15-4-1935
+3100 Chad Baker Georgia 85 West_Nile_Fever NO
+5194 Hector Villarreal Georgia 86 Ebola YES 17-11-1911
+3401 Laura Griffin Georgia 87 Covid-19 NO
+8165 Grady Calderon Georgia 87 Spanish_Flu NO
+8137 Liberty Lin Georgia 88 Covid-19 NO
+2664 August Daugherty Georgia 88 HIV YES 4-6-1985
+9806 Eliza Woodward Georgia 88 West_Nile_Fever YES 14-7-1948
+2247 Lilly Nixon Georgia 89 Spanish_Flu YES 15-8-1952
+3552 Haylie Lopez Georgia 8 Ebola NO
+5881 Ayanna Garrison Georgia 8 HIV YES 5-5-1971
+4261 Alisha Koch Georgia 90 Covid-19 NO
+6872 Paris Mcguire Georgia 90 HIV YES 9-7-1914
+43 Pierce Parsons Georgia 91 HIV YES 1-6-1991
+6816 Yaritza Bender Georgia 92 Ebola NO
+9747 Charlee Downs Georgia 92 Spanish_Flu YES 15-6-1956
+6008 Aniyah Short Georgia 93 Spanish_Flu YES 2-10-1928
+2627 Demetrius Mosley Georgia 94 Spanish_Flu YES 9-11-1967
+4426 Maximilian Richards Georgia 95 Ebola YES 26-1-1946
+3692 Haylie Serrano Georgia 95 West_Nile_Fever NO
+1052 Karter Benson Georgia 97 Covid-19 NO
+8793 Kaylyn Savage Georgia 97 West_Nile_Fever NO
+6412 Coby Finley Georgia 98 HIV YES 19-2-1956
+7970 Emanuel Keith Georgia 99 Spanish_Flu NO
+7551 Laylah Little Georgia 9 Ebola NO

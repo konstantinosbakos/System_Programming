@@ -1,0 +1,203 @@
+7378 Brian Guzman Andorra 100 Ebola YES 21-9-2006
+9157 Lizeth Kaufman Andorra 101 Covid-19 YES 24-10-1924
+8257 Grady Hanna Andorra 101 Spanish_Flu NO
+2794 Dulce Chandler Andorra 102 HIV YES 19-11-1919
+6661 Matilda Stevens Andorra 102 West_Nile_Fever YES 6-9-1975
+1302 Nikolai Livingston Andorra 103 West_Nile_Fever YES 22-7-1948
+3336 Lamar Boone Andorra 104 Ebola NO
+4522 Emmalee Ortega Andorra 104 HIV NO
+6084 Imani Roman Andorra 104 West_Nile_Fever NO
+4340 Jabari May Andorra 105 Covid-19 NO
+5340 Jovan Castillo Andorra 106 Covid-19 NO
+3978 Gabriela Lambert Andorra 106 Ebola YES 11-5-2008
+2731 Jaxon Ramsey Andorra 106 Spanish_Flu NO
+797 Christine Randolph Andorra 107 Covid-19 NO
+8319 Cristina Santiago Andorra 108 Covid-19 NO
+3023 Jamari Welch Andorra 108 Spanish_Flu NO
+9753 Norah Wilson Andorra 108 West_Nile_Fever YES 24-5-2019
+8924 Judah Ray Andorra 109 HIV YES 30-2-1957
+328 Kolby Rocha Andorra 109 West_Nile_Fever YES 18-2-2000
+8573 Micah Blackburn Andorra 10 HIV NO
+7502 Yael Guerra Andorra 110 Covid-19 NO
+9751 Mary Bishop Andorra 110 HIV NO
+3865 Yaritza Howard Andorra 111 Spanish_Flu NO
+6825 Roman Hudson Andorra 112 Covid-19 NO
+1640 Frida Avila Andorra 112 Spanish_Flu NO
+1688 Kymani Frazier Andorra 113 Ebola YES 22-11-2000
+4656 June Kline Andorra 113 Spanish_Flu YES 6-1-2000
+5567 Quincy Long Andorra 114 HIV YES 9-12-2007
+1991 Amira Burch Andorra 115 HIV NO
+910 Cade Harrington Andorra 115 Spanish_Flu NO
+4819 London Ballard Andorra 116 Covid-19 NO
+7589 Logan Mclean Andorra 117 Covid-19 NO
+2675 Francis Dickson Andorra 117 West_Nile_Fever YES 23-7-1968
+3568 Crystal Ashley Andorra 118 Ebola YES 20-1-1918
+6389 Donna Galloway Andorra 118 HIV YES 8-6-1983
+2217 Waylon Gonzales Andorra 118 West_Nile_Fever YES 4-12-1933
+907 Elianna Hicks Andorra 11 Covid-19 NO
+4602 Leland Harmon Andorra 11 Spanish_Flu YES 23-3-1909
+363 Litzy Howell Andorra 120 Covid-19 NO
+7390 Ryleigh Bailey Andorra 120 Spanish_Flu NO
+8993 Samir Chambers Andorra 12 Covid-19 YES 27-12-1943
+6652 Deegan Moreno Andorra 13 Covid-19 YES 7-8-1993
+9954 Calvin Moody Andorra 14 Ebola NO
+3779 Finn Hebert Andorra 14 West_Nile_Fever YES 13-7-1955
+7225 Kaylynn Jenkins Andorra 15 HIV NO
+4961 Tatiana Hester Andorra 15 West_Nile_Fever NO
+6593 Rayan Hahn Andorra 16 Covid-19 YES 26-2-2010
+9594 Desmond Edwards Andorra 16 Spanish_Flu NO
+4299 Joyce Nixon Andorra 17 Ebola NO
+4221 Cherish Delacruz Andorra 17 Spanish_Flu NO
+7918 Sanai Gay Andorra 18 Ebola NO
+7860 Morgan Sampson Andorra 19 Ebola YES 23-5-1985
+7375 Presley Hester Andorra 19 Spanish_Flu YES 17-8-1965
+3966 Yaretzi Singleton Andorra 1 HIV NO
+9225 Santos Abbott Andorra 20 Ebola YES 1-9-1975
+9894 Deanna Snyder Andorra 20 Spanish_Flu NO
+9841 Quentin Christensen Andorra 21 Covid-19 NO
+9474 Yair Frey Andorra 22 Covid-19 YES 27-8-1994
+3093 Blaze Lynn Andorra 22 West_Nile_Fever NO
+9576 Jocelyn Turner Andorra 23 Spanish_Flu NO
+5309 Jaida Reynolds Andorra 24 Covid-19 NO
+8387 Frida Gomez Andorra 24 HIV YES 14-1-1994
+7197 Jamir Nichols Andorra 24 West_Nile_Fever YES 5-2-1961
+4537 Iliana Kemp Andorra 25 Spanish_Flu YES 9-4-1934
+5871 Jasper Moreno Andorra 26 Ebola YES 8-1-2010
+2239 Rowan Kim Andorra 27 Covid-19 NO
+3020 Camilla Glenn Andorra 27 West_Nile_Fever NO
+8308 Milagros Nunez Andorra 27 West_Nile_Fever YES 29-3-1979
+2703 Conner Case Andorra 28 West_Nile_Fever YES 11-1-2012
+4884 Cristofer Roman Andorra 29 Ebola NO
+3863 Sariah Schmidt Andorra 29 HIV YES 13-9-1996
+2554 Branson Krueger Andorra 2 Covid-19 YES 18-1-1900
+3990 Tatum Decker Andorra 2 West_Nile_Fever YES 23-9-1990
+1898 Cash Roberson Andorra 30 Ebola YES 10-9-1988
+6979 Liam Hale Andorra 30 Spanish_Flu YES 23-4-1962
+3490 Patience Miranda Andorra 31 Covid-19 YES 2-7-2005
+5940 Tiffany Krause Andorra 31 HIV NO
+9619 Abel Pace Andorra 31 Spanish_Flu YES 3-5-1918
+8281 Santino Lewis Andorra 32 Ebola NO
+9717 Victor Vasquez Andorra 32 Spanish_Flu NO
+399 Aniya Raymond Andorra 33 HIV YES 8-1-1917
+5128 Trevor Davenport Andorra 34 Covid-19 NO
+3043 Kasen Moody Andorra 34 West_Nile_Fever YES 19-11-1992
+4202 Dakota Hayden Andorra 35 Spanish_Flu YES 14-11-1912
+7653 Austin Vincent Andorra 36 Ebola NO
+5572 Sean Hopkins Andorra 36 Spanish_Flu NO
+9850 Noah Buchanan Andorra 37 Ebola YES 16-2-1985
+1485 Jaylon Boyle Andorra 37 West_Nile_Fever NO
+3927 Siena Roy Andorra 38 Ebola NO
+8036 Brian Clay Andorra 38 West_Nile_Fever NO
+7798 Jovan Savage Andorra 39 Covid-19 YES 23-3-1929
+3535 Evelin Rhodes Andorra 39 Spanish_Flu NO
+6219 Saniya Garza Andorra 3 West_Nile_Fever YES 16-10-1942
+7386 Beau Small Andorra 40 Covid-19 YES 28-6-1904
+7758 Riya Curtis Andorra 40 Spanish_Flu NO
+8897 Colin Stuart Andorra 41 Ebola YES 13-4-2008
+1526 Corey Medina Andorra 41 Spanish_Flu NO
+1669 Ellen Hughes Andorra 42 Spanish_Flu NO
+9549 Rene Gay Andorra 43 Covid-19 NO
+4067 Aryanna Cervantes Andorra 43 West_Nile_Fever NO
+4100 Mariyah Grant Andorra 44 HIV NO
+216 Aiden Sparks Andorra 44 West_Nile_Fever NO
+4987 Tatum King Andorra 45 West_Nile_Fever YES 3-4-1998
+9060 Alexandra Waters Andorra 46 Ebola NO
+6817 Yoselin Patton Andorra 47 Covid-19 YES 12-9-2005
+808 Jonah Day Andorra 47 West_Nile_Fever NO
+4942 Kai Bush Andorra 48 Ebola NO
+6384 Zaiden Knight Andorra 48 West_Nile_Fever NO
+3485 Tyson Levy Andorra 49 Ebola YES 4-8-1978
+2066 Katrina Briggs Andorra 4 HIV YES 2-5-1959
+9385 Leonel Braun Andorra 50 Ebola YES 9-3-1968
+7162 Ellis Collins Andorra 51 Covid-19 NO
+2652 Orlando Reese Andorra 51 Spanish_Flu NO
+6753 Adelaide Patel Andorra 52 Covid-19 YES 10-9-1927
+5886 Chasity Palmer Andorra 53 Ebola NO
+3593 Zoey Strickland Andorra 53 Spanish_Flu YES 22-2-1918
+1528 Brylee Estrada Andorra 53 West_Nile_Fever YES 22-10-1920
+5224 Kamden Freeman Andorra 54 Spanish_Flu NO
+1384 Saul Farley Andorra 55 Ebola NO
+2029 Elisabeth Parks Andorra 55 HIV YES 30-12-1970
+7705 Deandre Crawford Andorra 56 Covid-19 NO
+1035 Kaylah Barajas Andorra 56 HIV YES 12-6-2011
+8451 Colton James Andorra 56 West_Nile_Fever YES 6-9-1913
+6293 Devan Mcdaniel Andorra 57 West_Nile_Fever YES 11-10-1927
+2519 Maryjane Goodman Andorra 58 West_Nile_Fever YES 10-4-1986
+9111 Eddie Kent Andorra 59 HIV NO
+6363 Aryana Rosario Andorra 59 West_Nile_Fever NO
+4337 Seth Cunningham Andorra 5 Spanish_Flu YES 22-4-1962
+2199 Natalie Macias Andorra 60 HIV YES 28-10-1956
+7282 Georgia Mayer Andorra 61 Covid-19 YES 6-10-1909
+8226 Kayleigh Meyers Andorra 61 Spanish_Flu YES 15-11-2003
+9152 Casey Leonard Andorra 62 Ebola NO
+2450 Raquel Yu Andorra 63 HIV NO
+5218 Sariah Leach Andorra 64 HIV YES 3-5-1904
+4038 Hailie Mcclure Andorra 65 Covid-19 NO
+3930 Keira Dodson Andorra 65 West_Nile_Fever NO
+6728 Rogelio Hines Andorra 66 Ebola NO
+9429 Aaron Moody Andorra 66 HIV NO
+6377 Rey Farley Andorra 66 West_Nile_Fever NO
+6090 Jaqueline Mills Andorra 67 HIV YES 24-10-2011
+2089 Ariella Mcguire Andorra 68 Covid-19 NO
+1534 Barbara Fisher Andorra 68 Ebola YES 26-9-2001
+8636 Saniya Richardson Andorra 68 Spanish_Flu NO
+2109 Kendrick Blevins Andorra 69 West_Nile_Fever YES 25-1-1961
+5505 Conner Hoffman Andorra 6 HIV NO
+3809 Brianna Lee Andorra 70 Covid-19 YES 13-12-2006
+4973 Kai Carpenter Andorra 70 West_Nile_Fever NO
+5581 Taryn Clark Andorra 71 Ebola YES 30-1-1983
+7295 Gemma Dudley Andorra 71 Spanish_Flu YES 4-2-1954
+6091 Hailie Perkins Andorra 72 HIV YES 10-3-1963
+8536 Ainsley Padilla Andorra 73 Covid-19 YES 2-1-1906
+5019 Salma Mcconnell Andorra 73 Spanish_Flu YES 19-4-2007
+3575 Jalen Gregory Andorra 74 HIV NO
+6690 Chad Richards Andorra 75 Covid-19 NO
+9773 Zackery Pratt Andorra 75 HIV YES 4-9-2016
+476 Jaidyn Anderson Andorra 75 West_Nile_Fever NO
+2638 Krish Mcmillan Andorra 76 Spanish_Flu NO
+3772 Helena Lloyd Andorra 77 Covid-19 YES 30-7-2011
+4746 Teagan Levine Andorra 77 West_Nile_Fever NO
+3523 Weston Bell Andorra 78 Covid-19 NO
+9573 Giovanni Solis Andorra 78 Ebola YES 2-12-1963
+7281 Ryker Lam Andorra 78 Spanish_Flu NO
+161 Camila Manning Andorra 79 Covid-19 YES 14-3-1954
+8707 Jovani Porter Andorra 79 HIV YES 23-10-1982
+2970 Jadon Gates Andorra 7 Ebola NO
+3665 Hugo Colon Andorra 80 Covid-19 NO
+9953 Kassidy Santos Andorra 80 HIV YES 19-10-1930
+3654 Allen Small Andorra 81 Spanish_Flu YES 6-9-1992
+4741 Elianna Robles Andorra 82 Covid-19 NO
+2614 Lorenzo Glenn Andorra 82 HIV NO
+8913 Aaden Flynn Andorra 82 Spanish_Flu YES 1-9-1915
+2086 Jamya Wilson Andorra 83 West_Nile_Fever YES 18-9-1905
+2613 Keagan Valenzuela Andorra 84 Spanish_Flu YES 26-5-1952
+78 Solomon Ferguson Andorra 85 Ebola YES 3-8-2009
+9704 Aliya Davila Andorra 86 Covid-19 NO
+7969 Matias House Andorra 86 Ebola YES 2-2-1927
+4356 Christian Villarreal Andorra 86 West_Nile_Fever NO
+9017 Arianna Bell Andorra 87 HIV NO
+3793 Charlie Lawson Andorra 87 West_Nile_Fever YES 8-10-1940
+6912 Jasmine Osborne Andorra 88 Ebola YES 15-3-1933
+175 Gael Shepard Andorra 88 West_Nile_Fever NO
+2454 Ella Ellison Andorra 89 Ebola NO
+4134 Valeria Adkins Andorra 89 Spanish_Flu NO
+4925 Nia Mullen Andorra 8 Ebola YES 17-3-1917
+8558 Santos Hawkins Andorra 90 Ebola NO
+8726 Shane Hughes Andorra 90 Spanish_Flu NO
+7215 Bryce Pittman Andorra 91 Ebola NO
+6012 Salvador Bates Andorra 91 West_Nile_Fever YES 14-6-1980
+5791 Ricky Richardson Andorra 92 Ebola NO
+8321 Junior Abbott Andorra 92 West_Nile_Fever YES 20-11-1943
+5644 Ariel Escobar Andorra 93 HIV NO
+8618 Karlee Wilkins Andorra 94 Covid-19 YES 16-4-1988
+2258 Yasmin Rice Andorra 94 West_Nile_Fever YES 1-3-1925
+4388 Lesly Blanchard Andorra 95 HIV NO
+8486 Kamren Fox Andorra 95 HIV YES 5-11-1978
+6423 Jaden Clements Andorra 96 Covid-19 NO
+5248 Jacey Cooley Andorra 96 HIV YES 9-9-1932
+9319 Abigail Mathews Andorra 96 Spanish_Flu YES 24-4-1998
+3711 Genesis Shelton Andorra 97 West_Nile_Fever NO
+6435 Heidi Lawrence Andorra 98 HIV NO
+1051 Caylee Hoffman Andorra 99 Spanish_Flu NO
+2262 Audrina Frank Andorra 9 HIV NO
+7852 Quentin Johns Andorra 9 Spanish_Flu YES 5-5-1933

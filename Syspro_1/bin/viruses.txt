@@ -1,0 +1,5 @@
+HIV
+Ebola
+West_Nile_Fever
+Spanish_Flu
+Covid-19
