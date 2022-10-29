@@ -94,19 +94,19 @@ as well as the virus that the patients have been vaccinated for. The user insert
  divided in bool functions, void functions and functions (that have a return type other than bool).
 
 ## Misc
- • The initialization errors are stored in Initialization_errors.txt which can be accessed right after
+ - The initialization errors are stored in Initialization_errors.txt which can be accessed right after
  the initialization. If the file exists already, it is deleted when the program runs again.
- • There may be many citizens with the same ID in the data base citizen list, but each citizen refers to
+ - There may be many citizens with the same ID in the data base citizen list, but each citizen refers to
  a different virus and/or a different state (YES/NO).
- • information_check is a skip list tha contains all the citizens in every other skip list, at least
+ - information_check is a skip list tha contains all the citizens in every other skip list, at least
  once. Its responsibility is to identify and disallow any new citizen with mismatching information
  from being inserted in the list. After every deletion of a citizen from the data base, it is
  important to delete the citizen with that ID from the information_check skip list as well, in
  case it is the one that is being deleted at the data base. After that an existing citizen with the
  same ID will be inserted in the information_check skip list.
- • To delete all .o files, input.txt and Initialization_errors.txt, type "make clean".
- • The program was tested on the university systems as well as on Ubuntu 20.04.
+ - To delete all .o files, input.txt and Initialization_errors.txt, type "make clean".
+ - The program was tested on the university systems as well as on Ubuntu 20.04.
  g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0.
- • If the command line input is wrong, the user can type "./vaccineMonitor -h" and a help box will
+ - If the command line input is wrong, the user can type "./vaccineMonitor -h" and a help box will
  appear.
- • If the command line imput is wrong for the bash scrip, again, a help box will appear.
+ - If the command line imput is wrong for the bash scrip, again, a help box will appear.

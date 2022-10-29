@@ -54,10 +54,10 @@ In `Syspro_2/bin/` run:
 All  the functions from the first project are in src/functions. The new functions  that control the communication with  the pipes are in the  src/process_functions.  The signal functions  are located in that folder as well.
 
 ## Misc
- • sleep() is used twice for output reasons and only once for synchonization. The reason it is
+ - sleep() is used twice for output reasons and only once for synchonization. The reason it is
  used like that is because the pipe need to be "cleaned" in the Monitor process before it gets
  accesed by the travelMonitor process.
- • The program was tested on the university systems as well as on Ubuntu 20.04.
+ - The program was tested on the university systems as well as on Ubuntu 20.04.
  g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0.
- • If the command line input is wrong, the user can type "./travelMonitor -h" and a help
+ - If the command line input is wrong, the user can type "./travelMonitor -h" and a help
  box will appear.
